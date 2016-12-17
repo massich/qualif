@@ -1,16 +1,16 @@
 [0] Config.pm:320> INFO - This is Biber 1.9
-[1] Config.pm:323> INFO - Logfile is 'description.blg'
-[33] biber:276> INFO - === Sat Dec 17, 2016, 11:05:20
-[33] Biber.pm:333> INFO - Reading 'description.bcf'
-[114] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.7, expected version 2.6
-[115] Biber.pm:632> INFO - Using all citekeys in bib section 0
-[128] Biber.pm:3051> INFO - Processing section 0
-[141] Biber.pm:3189> INFO - Looking for bibtex format file 'bib1.bib' for section 0
-[143] bibtex.pm:977> INFO - Decoding LaTeX character macros into UTF-8
-[147] bibtex.pm:851> INFO - Found BibTeX data source 'bib1.bib'
-[313] UCollate.pm:66> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[313] UCollate.pm:66> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[313] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'fr-FR'
-[341] bbl.pm:517> INFO - Writing 'description.bbl' with encoding 'UTF-8'
-[346] bbl.pm:606> INFO - Output to description.bbl
-[346] Biber.pm:106> INFO - WARNINGS: 1
+[0] Config.pm:323> INFO - Logfile is 'description.blg'
+[32] biber:276> INFO - === Sat Dec 17, 2016, 19:29:11
+[32] Biber.pm:333> INFO - Reading 'description.bcf'
+[110] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.7, expected version 2.6
+[110] Biber.pm:632> INFO - Using all citekeys in bib section 0
+[122] Biber.pm:3051> INFO - Processing section 0
+[134] Biber.pm:3189> INFO - Looking for bibtex format file 'bib1.bib' for section 0
+[135] bibtex.pm:977> INFO - Decoding LaTeX character macros into UTF-8
+[138] bibtex.pm:851> INFO - Found BibTeX data source 'bib1.bib'
+[303] UCollate.pm:66> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[303] UCollate.pm:66> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[303] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'fr-FR'
+[328] bbl.pm:517> INFO - Writing 'description.bbl' with encoding 'UTF-8'
+[332] bbl.pm:606> INFO - Output to description.bbl
+[332] Biber.pm:106> INFO - WARNINGS: 1

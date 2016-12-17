@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2016.5.19)  17 DEC 2016 18:23
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2016.5.19)  17 DEC 2016 19:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -439,9 +439,6 @@ Package epstopdf Warning: Drivers other than `pdftex.def' are not supported.
 
 ))
 \@float@every@table=\toks19
-Invalid UTF-8 byte or sequence at line 31 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 32 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 34 replaced by U+FFFD.
  (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2014/04/30 v1.2b Input encoding file
 \inpenc@prehook=\toks20
@@ -460,12 +457,9 @@ l.165 \endinput
 ? 
 )
 Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 36 replaced by U+FFFD.
  (/usr/share/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen128
 )
-Invalid UTF-8 byte or sequence at line 37 replaced by U+FFFD.
-
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2014/09/25 3.9l The Babel package
 
@@ -628,9 +622,6 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 \endnotesep=\dimen141
 \@enotes=\write4
 )
-Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 42 replaced by U+FFFD.
-
 (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks33
@@ -765,10 +756,6 @@ LaTeX Info: Redefining \up on input line 57.
 Package frenchb.ldf Warning: Add \usepackage{fontspec} to the
 (frenchb.ldf)                preamble of your document, on input line 57.
 
-Invalid UTF-8 byte or sequence at line 59 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 59 replaced by U+FFFD.
-Missing character: There is no � in font aebx12!
-Missing character: There is no � in font aebx12!
 LaTeX Font Info:    Try loading font information for U+msa on input line 62.
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -778,575 +765,33 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 62.
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Invalid UTF-8 byte or sequence at line 65 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 65 replaced by U+FFFD.
-Missing character: There is no � in font aebx12!
-Missing character: There is no � in font aebx12!
-Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 67 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 68 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 68 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 68 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 69 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 75 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 75 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
-Missing character: There is no � in font aebx10!
-Invalid UTF-8 byte or sequence at line 83 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 83 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 83 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer7!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 84 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer7!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 85 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 85 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 85 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer7!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 86 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 86 replaced by U+FFFD.
-Missing character: There is no � in font aer7!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 95 replaced by U+FFFD.
-Missing character: There is no � in font aebx12!
-Invalid UTF-8 byte or sequence at line 98 replaced by U+FFFD.
-Missing character: There is no � in font aebx10!
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.99 
-     
-? 
-Invalid UTF-8 byte or sequence at line 100 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 100 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 101 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 101 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 101 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 101 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 102 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 102 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 103 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 103 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 103 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 104 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 104 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 104 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
 Invalid UTF-8 byte or sequence at line 105 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 110 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 110 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
 Missing character: There is no � in font aer10!
 
 Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.114 
-      
-? 
-Invalid UTF-8 byte or sequence at line 115 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 115 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 115 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 116 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 116 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 116 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 117 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 124 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 125 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 125 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 125 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 125 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 126 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 126 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 127 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 132 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 133 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 133 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 133 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 133 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 133 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 134 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 134 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 138 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
 [1
 
 ]
-Invalid UTF-8 byte or sequence at line 146 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 146 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 146 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 146 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 148 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 151 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 151 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 153 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 156 replaced by U+FFFD.
-Missing character: There is no � in font aebx12!
-Invalid UTF-8 byte or sequence at line 163 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 165 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 169 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 169 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 166 replaced by U+FFFD.
 Missing character: There is no � in font aebx10!
-Missing character: There is no � in font aebx10!
-Invalid UTF-8 byte or sequence at line 170 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 170 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 170 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 255 replaced by U+FFFD.
 Missing character: There is no � in font aer10!
+Invalid UTF-8 byte or sequence at line 256 replaced by U+FFFD.
 Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 171 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 172 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 173 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 173 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 173 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 174 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aebx10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 176 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 183 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 183 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 184 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 184 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 186 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 186 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 187 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 187 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 193 replaced by U+FFFD.
-Missing character: There is no � in font aebx10!
-Missing character: There is no � in font aebx10!
-Missing character: There is no � in font aebx10!
-
-
-LaTeX Warning: Citation 'altman1994statistics' on page 2 undefined on input lin
-e 223.
-
-[2]
-Invalid UTF-8 byte or sequence at line 272 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 272 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 272 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 272 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 272 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 272 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 272 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 272 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 273 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 274 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 275 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 275 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 275 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 275 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 275 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 275 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 275 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 275 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 275 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 276 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 279 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 279 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 279 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 279 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 279 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 279 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 279 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 280 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 280 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 280 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 280 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 280 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-
-Overfull \hbox (6.70006pt too wide) in paragraph at lines 279--281
-[]\T1/aer/m/n/10 En uti-li-sant notre
- []
-
-Invalid UTF-8 byte or sequence at line 282 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 282 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 282 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 282 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 282 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 282 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 289 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 290 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 290 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 290 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 291 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 291 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 292 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 292 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 293 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 293 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 293 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 293 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 294 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 294 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 294 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 295 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 295 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 295 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 295 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 297 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 297 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 298 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 298 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 299 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 300 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 300 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 300 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 303 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 303 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 303 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 303 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 312 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 312 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 312 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 312 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 312 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 313 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 313 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 315 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 315 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 315 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 316 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 316 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 317 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 317 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 318 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 319 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 319 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 319 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 319 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 320 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 322 replaced by U+FFFD.
-Missing character: There is no � in font aebx12!
-Invalid UTF-8 byte or sequence at line 329 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 329 replaced by U+FFFD.
-Missing character: There is no � in font aebx12!
-Missing character: There is no � in font aebx12!
-Invalid UTF-8 byte or sequence at line 330 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 330 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 330 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 330 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 331 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 332 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 333 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 335 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 335 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 335 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 335 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 336 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 339 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 348 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 348 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 348 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 348 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+ [2]
 
 Package biblatex Warning: Setting 'defernumbers=true' recommended.
 
-[3]
 Missing character: There is no ı in font aecsc10!
-Invalid UTF-8 byte or sequence at line 357 replaced by U+FFFD.
-
 
 Package biblatex Warning: Setting 'defernumbers=true' recommended.
 
-Missing character: There is no � in font aebx12!
-[4]
-Invalid UTF-8 byte or sequence at line 371 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 376 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 376 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 376 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 378 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 379 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 380 replaced by U+FFFD.
-Missing character: There is no � in font aer10!
-Missing character: There is no � in font aer10!
- 
+[3] [4] 
 AED: lastpage setting LastPage
 [5] (./description.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                description
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'description.run.xml'.
 \openout1 = `description.run.xml'.
 
@@ -1354,10 +799,10 @@ Package logreq Info: Writing requests to 'description.run.xml'.
 Here is how much of TeX's memory you used:
  10600 strings out of 494960
  164356 string characters out of 6171618
- 596808 words of memory out of 5000000
+ 596787 words of memory out of 5000000
  13673 multiletter control sequences out of 15000+600000
  19298 words of font info for 31 fonts, out of 8000000 for 9000
  398 hyphenation exceptions out of 8191
- 44i,12n,49p,801b,1531s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,49p,801b,1529s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on description.pdf (5 pages).

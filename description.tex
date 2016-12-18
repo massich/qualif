@@ -109,24 +109,23 @@ De façon plus sp\'{e}cifique, ce cours permet \`{a} l'\'{e}tudiant de:
 des syst\'{e}mes de version contr\^{o}le et agile
 \item Ma\^{i}triser \`{a} programmer dans le paradigme orient\'{e}-objet avec le langage Java.\\
 \end{itemize}
+% \vspace{2pt}
 
 \item[Architecture des systems]
 
 L'objectif de ces travaux pratiques \'{e}tait de permettre aux \'{e}tudiants de premi\`{e}re
 ann\'{e}e DUT informatique ayant d\'{e}j\`{a} des connaissances de base en programmation C
 de ma\^{i}triser la programmation a bas niveau, comprendre la conception et commandament des syst\`{e}mes
-d'entr\'{e}e-sortie dans un environnement de micro-controler simul\'{e} .
+d'entr\'{e}e-sortie dans un environnement de micro-controler simul\'{e}.
 
-The students master reading datasheets, conding in asm, the parameter passing
-during a call, memory spaces, the input/output, lattency time and chronograms.
-
+% \vspace{2pt}
 \item[Programmation mobile]
 Les 12h de travaux dirig\'{e}s, et les 16h de travaux pratiques ont permis aux
 \'{e}tudiants de deuxi\`{e}me ann\'{e}e DUT informatique de d\'{e}velopper des applications
 mobiles sous Android afin d'apprendre \`{a} cr\'{e}er une application native pour
 t\'{e}lephone ou tablette.
 
-
+% \vspace{2pt}
 \item[Clients web riches]
 
 Les 12h de travaux dirig\'{e}s et les 32h de travaux pratiques ont \'{e}t\'{e} dispens\'{e} aux
@@ -139,7 +138,6 @@ des concepts n\'{e}cessaire pour d\'{e}velopper:
 \end{itemize}
 
 \end{description}
-\newpage
 
 \subsection{Supervision de projet}
 
@@ -147,12 +145,21 @@ Durant ma p\'{e}riode postdoctorale, j'ai l'occasion de sup\'{e}rvis\'{e} des \'
 master dans le laboratoire et de collaborer avec la tasc de superviser les
 \'{e}studiants de doctorat.
 
+\subsection{Membre actif du project SALEIE}
+
+Durant ma p\'{e}riode postdoctorale, j'ai l'occasion de travailler dans le cadre
+du project H2020:SALEIE (Strategic Alignment of Electrical and Information Engineering
+in European Higher Education Institutions).
+L\`{a} je fais partie de la revision des programmes d'enseignement sup\'{e}rieur
+europ\'{e}en et j'ai particip\'{e} \`{a} la cr\'{e}ation de directirces por la
+definition des programmes dans le domaine de technologies de l'information et de
+la communication (TIC). Un r\'{e}sum\'{e} a \'{e}t\'{e} publi\'{e} dans~\cite{ligusova2014reflections}.
 
 %% \subsection{Responsabilit\'{e} d'unit\'{e} d'enseignement}
 
 %% J'ai donc assur\'{e} la coordination du module d'introduction au
 %% traitement de l'image dans le Master Vibot.
-
+\newpage
 \section{Activit\'{e}s de recherches}
   \vspace{-0.5cm}
   \begin{center}
@@ -167,9 +174,7 @@ master dans le laboratoire et de collaborer avec la tasc de superviser les
 \item Institutions : Universit\'{e} de Bourgogne au laboratoire Le2i
 (Laboratoire d'Electronique, Informatique et Image) / Universitat de Girona \`{a} Institut VICOROB
 \item P\'{e}riode : Octobre 2009 \`{a} D\'{e}cembre 2013 
-\item Soutenue le : 4 d\'{e}cembre 2013
-\item mention : Tr\`{e}s Honorable
-\item Directeur de th\`{e}se : \textbf{Fabrice Meriaudeau}, Professeur \`{a} l'Universit\'{e} de Bourgogne
+\item Soutenue le : 4 d\'{e}cembre 2013 \item mention : Tr\`{e}s Honorable \item Directeur de th\`{e}se : \textbf{Fabrice Meriaudeau}, Professeur \`{a} l'Universit\'{e} de Bourgogne
 \item Codirecteur de th\`{e}se : \textbf{Joan Mart\'{i}}, Professeur \`{a} l'Universitat de Girona
 
 \item Jury de th\`{e}se :
@@ -212,51 +217,88 @@ ultrasons (US) est propos\'{e}e.
 
 \subsubsection{Les contributions}
 \begin{description}
-\item[Breast ultrasound image collection]
-  As part of this PhD, we have collected a set of images along with delineations
-  from the doctors.
-\item [ New segmentation methodologies ]
-  Two new methodologies are proposed. The first one is based on Gaussian Constrain
-  Segmentation and the second one is based on a minimization scheme.
+\item[Base de donn'{e}es publique d'images ultrasonores du sein]
+Cr'{e}er un ensemble de donn'{e}es public d'images d''{e}chographie du sein avec des
+d'{e}limitations de l'{e}sion et des annotations radiologues.
+\item [Proposition de deux nouvelles m\'{e}thodologies]
+  En plus d'une r\'{e}vision approfondie des m\'{e}thodologies
+  existantes~\cite{massich2013phd}, j'ai propos\'{e}:
+  \begin{itemize}
+  \item La premi\'{e}re est bas\'{e}e sur la propagation d'un front d'onde en
+  utilitsant un modele Gaussiane~\cite{massich2010lesion,massich2011seed}.
+  \item Le second, utilis'{e} un framework de minimisation bas'{e} sur des coupes de graphe et
+une repr'{e}sentation des images en
+superpixels~\cite{massich2012seed,massich2014sift,massich2015miccai}.
+  \end{itemize}
 
 \end{description}
 
+\subsection{Post-doctorat}
 
+I did a postdoc research at medical imaging group at Le2i where simultaneously
+we worked on several projects, including Skin cancer, prostate cancer, breast
+cancer and OCT. My work as a postdoctorale researcher involved guiding the phd
+students and working with them to advance the projects.
 
+\begin{description}
+\item[Classification automatique d'Ed\`{e}me Maculaire Diab\'{e}tique (EMD) sur
+  imagerie TCO.]
+  This two years project was based on the collaboration with the singapour eye
+  research institute. Within this project we delivered two classification
+  frameworks. The former corresponds to a supervised method
+  \cite{lemaitre2015miccai, lemaitre2016classification}, wheras the later
+  consists of an semi-supervised method~\cite{sidibe2017anomaly}.
+  In this regard, a testing benchmark and a review comparing our methods with
+  state of the art was published in~\cite{massich2016classification}.
+
+\item[D'{e}veloppement de syst\`{e}mes DAO pour des applications en imagerie m'{e}dicale]
+  In order to develop CAD systems for different medical applications, I
+  contributed to standardize a common framework that allowed us to generalize the
+  CAD systems developed for OCT and breast to skin and prostate
+  cancer CAD systems.
+
+  This work resulted in the following publications:~\cite{}.  
+
+\end{description}
+
+Besides medical imaging I also worked on several projects where the laboratorie
+was contracted by an industrial partner. One of these projects lead to a join
+publication with the non conventional imaging group at Le2i.
+
+% \subsubsection{Les contributions}
+% \begin{description}
+% \item[Plateforme pour partager des benchmarks et des bases de donn\'{e}es
+%   d'imagerie m\'{e}dicale] Cette platforme se trouve \`{a} \url{http://i2cvb.github.io}.
+
+% \item[Extension des m\'{e}thodes propos\'{e}es dans~\cite{massich2013phd}]
+%   proposant une nouvelle fonction de r\'{e}gularization et en incorporant de nouveaux
+% descripteurs qui ont am'{e}lior'{e} nos r'{e}sultats pr'{e}c'{e}dents~\cite{massich2015miccai}.
+% \item[]
+% \end{description}
+
+% \subsection{Travaux de recherche}
 
 \subsection{Travaux de recherche}
+
 Mes travaux de recherche se focalisent principalement sur des m\'{e}thodes
-d'apprentissage statistiques et automatiques d\'{e}di\'{e}es \`{a} la
-classification de m\'{e}lanomes. Mes recherches se sont \'{e}galement
-focalis\'{e}es sur l'apport potentiel de l'imagerie polarim\'{e}trique comme
-une nouvelle modalit\'{e} d'imagerie m\'{e}dicale \`{a} des fins de d\'{e}tection de
-m\'{e}lanomes. Pour cela nous avons utilis\'{e} un mod\`{e}le partiel de
-Stokes. Ces travaux ont \'{e}t\'{e} publi\'{e}s dans les revues et conf\'{e}rences suvantes~\cite{rastgoo2015automatic,rastgo2016classification,rastgoo2016tackling,rastgoo2015ensemble}.
+d'apprentissage statistiques et automatiques pur EMD et cancer du sein.
 
-En parall\`{e}le de mes travaux de recherche, j'ai eu l'opportunit\'{e} de
-travailler avec mes coll\`{e}gues sur d'autres probl\'{e}matiques de recherche
-telsque les probl\`{e}mes de dataset d\'{e}s\'{e}quilibr\'{e}, de CADs d\'{e}di\'{e}s \`{a} la
-d\'{e}tection de cancer de la prostate et du sein et \`{a} la d\'{e}tection de
-carte de salience.
+En parallèle de mes travaux de recherche, j'ai 
+travaill\'{e} avec mes collègues sur d'autres probl\'{e}matiques de recherche
+telsque les problèmes de dataset d\'{e}s\'{e}quilibr\'{e}, de CADs d\'{e}di\'{e}s à la
+d\'{e}tection de cancer de la prostate et du melanome.
 
-J'ai \'{e}galement travaill\'{e} sur les probl\`{e}mes de d\'{e}tection de maladies
-r\'{e}tiniennes en utilisant diff\'{e}rentes approches de machine learning,
-faisant l'objet des publications suivantes~\cite{alsaih2016classification,sidibe2017anomaly,lemaitre2016classification}.
+J'ai \'{e}galement travaill\'{e} sur divers projets de recherche p\'{e}dagogique tels que SALARI\'{E} et Playful Coding.
+
 
 \subsection{Perspective de recherche}
 
 J'ai eu l'occasion d'exceller dans le domaine de l'apprentissage
 statistique et automatique, du traitement d'images et de l'imagerie
-non conventionnelle pendant mon doctorat.
-Ces techniques ont \'{e}t\'{e} sp\'{e}cifiquement appliqu\'{e}es au domaine de l'imagerie m\'{e}dicale.
-%L'utilisation de telles techniques dans le domaine m\'{e}dical est illimit\'{e}e.
+non conventionnelle.
+Ces techniques ont \'{e}t\'{e} sp\'{e}cifiquement appliqu\'{e}es au domaine de
+l'imagerie m\'{e}dicale, l'imagerie non conventionelle.
 
-Ces mêmes m\'{e}thodes d'apprentissage mais \'{e}galement d'imagerie non
-conventionelle peuvent être utilis\'{e}es et avoir un apport dans le
-domaine de la vision par ordinateur et plus pr\'{e}cis\'{e}ment en robotique
-et navigation. Ma recherche actuelle est ax\'{e}e sur l'apport de
-l'imagerie polarim\'{e}trique coupl\'{e}e \`{a} des m\'{e}thodes d'apprentissage
-automatique \`{a} la navigation de robots.
 
 \section{Autres activit\'{e}s}
   \vspace{-0.5cm}
@@ -266,17 +308,21 @@ automatique \`{a} la navigation de robots.
 
 
 \subsection{Organisation d'\'{e}v\`{e}nements scientifiques}
-J'ai \'{e}t\'{e} co-organisatrice de la deuxi\`{e}me \'{e}dition du Doctoral Day 2015,
+J'ai \'{e}t\'{e} co-organis\'{e} la deuxi\`{e}me \'{e}dition du Doctoral Day 2015,
 organis\'{e} au Creusot.
+
 J'ai \'{e}galement particip\'{e} \`{a} l'organisation \`{a} la semaine d'int\'{e}gration,
 le Vibot Day ainsi que la remise des dipl\^{o}mes du Master Erasmus Mundus
 Vibot.
-J'ai \'{e}galement particip\'{e} et occasionnelement \'{e}t\'{e} en charge d'un groupe
-de lecture scientifiques organis\'{e}s au laboratoire Le2i.
+
+J'ai aussi créé un groupe de travail dans le laboratoire Le2i qui se réunit
+régulièrement à analyser des travaux scientifiques dans la litt\'{e}rature.
 
 \subsection{Relecture d'articles scientifiques}
-J'ai effectu\'{e} des relectures pour des revues scientifiques: IEEE Transactions on Medical Imaging et Journal of Research and Developement.
+J'ai effectu\'{e} des relectures pour des revues scientifiques et de
+conf\'{e}rences internationales.
 
+\newpage
 
 \section{Publications}
   \vspace{-0.5cm}
@@ -292,14 +338,12 @@ Toutes mes revues publi\'{e}es sont toutes r\'{e}f\'{e}renc\'{e}es JCR.
 %\printbibliography[type=article,title={Revues internationales}]
 %\printbibliography[type=inproceedings,title={Conf\'{e}rences internationales}]
 
-\printbibliography[keyword=JCRjournal,title={Revues internationales}]
+\printbibliography[keyword=journal,title={Revues internationales}]
 \printbibliography[keyword=conference,title={Conf\'{e}rences internationales}]
+\printbibliography[keyword=bookchapter,title={Chapitre du livre}]
+\printbibliography[keyword=other,title={Divers}]
 
 \newpage
-
-
-
-
 
 \section{Annexes}
   \vspace{-0.5cm}

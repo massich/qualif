@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2016.5.19)  17 DEC 2016 19:29
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2016.5.19)  18 DEC 2016 20:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -746,7 +746,74 @@ Package biblatex Warning: File 'description.bbl' is wrong format version - expe
 cted 2.5.
 
 Package biblatex Info: ... file 'description.bbl' found.
-(./description.bbl)
+(./description.bbl
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'massich2015miccai':
+(biblatex)                - Overwriting field 'year' with year value from field
+ 'date' for entry 'massich2015miccai'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'lemaitre2015miccai':
+(biblatex)                - Overwriting field 'year' with year value from field
+ 'date' for entry 'lemaitre2015miccai'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'massich2016classifying':
+(biblatex)                - Overwriting field 'year' with year value from field
+ 'date' for entry 'massich2016classifying'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'rastgoo2016tackling':
+(biblatex)                - Overwriting field 'year' with year value from field
+ 'date' for entry 'rastgoo2016tackling'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'lemaitre2016normalization':
+(biblatex)                - Overwriting field 'year' with year value from field
+ 'date' for entry 'lemaitre2016normalization'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'rastgoo2016classification':
+(biblatex)                - Overwriting field 'year' with year value from field
+ 'date' for entry 'rastgoo2016classification'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'meyerbaese2015miccai':
+(biblatex)                - Overwriting field 'year' with year value from field
+ 'date' for entry 'meyerbaese2015miccai'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'lemaitre2015qcav':
+(biblatex)                - Overwriting field 'year' with year value from field
+ 'date' for entry 'lemaitre2015qcav'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'lemaitre2015business':
+(biblatex)                - Datamodel: Entry 'lemaitre2015business' (bib1.bib):
+ Invalid format '2015-3' of date field 'date' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'massich2015qcav':
+(biblatex)                - Overwriting field 'year' with year value from field
+ 'date' for entry 'massich2015qcav'.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'falcao2009projector':
+(biblatex)                - Overwriting field 'year' with year value from field
+ 'date' for entry 'falcao2009projector'.
+
+)
 Package biblatex Info: Reference section=0 on input line 57.
 Package biblatex Info: Reference segment=0 on input line 57.
 LaTeX Info: Redefining \dots on input line 57.
@@ -775,13 +842,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--111
 [1
 
 ]
-Invalid UTF-8 byte or sequence at line 166 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 173 replaced by U+FFFD.
 Missing character: There is no � in font aebx10!
-Invalid UTF-8 byte or sequence at line 255 replaced by U+FFFD.
+
+
+LaTeX Warning: Citation 'massich2016classification' on page 2 undefined on inpu
+t line 252.
+
+
+Overfull \hbox (14.49037pt too wide) in paragraph at lines 246--253
+[]\T1/aer/m/n/10 This
+ []
+
+
+Overfull \hbox (7.2999pt too wide) in paragraph at lines 255--259
+[]\T1/aer/m/n/10 In or-der to
+ []
+
+[2]
+Invalid UTF-8 byte or sequence at line 286 replaced by U+FFFD.
 Missing character: There is no � in font aer10!
-Invalid UTF-8 byte or sequence at line 256 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 287 replaced by U+FFFD.
 Missing character: There is no � in font aer10!
- [2]
+Invalid UTF-8 byte or sequence at line 288 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 288 replaced by U+FFFD.
+Missing character: There is no � in font aer10!
+Missing character: There is no � in font aer10!
+Invalid UTF-8 byte or sequence at line 318 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 318 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 318 replaced by U+FFFD.
+Missing character: There is no � in font aer10!
+Missing character: There is no � in font aer10!
+Missing character: There is no � in font aer10!
+Invalid UTF-8 byte or sequence at line 319 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 319 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 319 replaced by U+FFFD.
+Missing character: There is no � in font aer10!
+Missing character: There is no � in font aer10!
+Missing character: There is no � in font aer10!
+ [3]
 
 Package biblatex Warning: Setting 'defernumbers=true' recommended.
 
@@ -789,20 +888,47 @@ Missing character: There is no ı in font aecsc10!
 
 Package biblatex Warning: Setting 'defernumbers=true' recommended.
 
-[3] [4] 
+LaTeX Font Info:    Try loading font information for T1+aett on input line 342.
+
+(/usr/share/texmf-dist/tex/latex/ae/t1aett.fd
+File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
+) [4]
+Missing character: There is no ć in font aer10!
+
+
+Package biblatex Warning: Setting 'defernumbers=true' recommended.
+
+
+Package biblatex Warning: Setting 'defernumbers=true' recommended.
+
+[5]
+
+Package biblatex Warning: No driver for entry type 'resreport'.
+(biblatex)                Using fallback driver on input line 344.
+
+Missing character: There is no ć in font aer10!
+[6] 
 AED: lastpage setting LastPage
-[5] (./description.aux)
+[7] (./description.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                description
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'description.run.xml'.
 \openout1 = `description.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10600 strings out of 494960
- 164356 string characters out of 6171618
- 596787 words of memory out of 5000000
- 13673 multiletter control sequences out of 15000+600000
- 19298 words of font info for 31 fonts, out of 8000000 for 9000
+ 10652 strings out of 494960
+ 165476 string characters out of 6171618
+ 598844 words of memory out of 5000000
+ 13721 multiletter control sequences out of 15000+600000
+ 19619 words of font info for 32 fonts, out of 8000000 for 9000
  398 hyphenation exceptions out of 8191
- 44i,12n,49p,801b,1529s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,49p,801b,1531s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on description.pdf (5 pages).
+Output written on description.pdf (7 pages).

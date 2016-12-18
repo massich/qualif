@@ -5,14 +5,14 @@
                      '(("article" "a4paper" "10pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
                      '(("color" "usenames") ("geometry" "paper=a4paper" "textwidth=160mm" "hmargin=2.5cm" "vmargin=1.5cm") ("xcolor" "usenames" "dvipsnames") ("biblatex" "style=numeric" "backend=biber" "maxcitenames=10" "mincitenames=10" "maxbibnames=99" "minbibnames=99" "sorting=none") ("inputenc" "latin1") ("babel" "francais") ("aeguill" "cyr")))
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
-   (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "latex2e"
     "article"

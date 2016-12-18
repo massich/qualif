@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.4 $
+% $ biblatex bbl format version 2.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,7 +18,7 @@
 
 
 \refsection{0}
-  \sortlist{none}{none}
+  \sortlist{entry}{none}
     \entry{ligusova2014reflections}{inproceedings}{}
       \name{labelname}{5}{}{%
         {{hash=11bf15ef0695f1f072468e3b34ae9069}{Ligusova}{L\bibinitperiod}{Jana}{J\bibinitperiod}{}{}{}{}}%
@@ -37,7 +37,6 @@
       \strng{namehash}{895fcede3a560270b6866f66011cdc4c}
       \strng{fullhash}{895fcede3a560270b6866f66011cdc4c}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Reflections about the integration of global challenges into higher education future programs: application in the field of ICT security}
       \field{booktitle}{Proceedings of {ITHET} 2014. 13th International Conference on Information Technology Based Higher Education and Training}
       \field{month}{09}
@@ -53,7 +52,7 @@
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
       }
       \list{institution}{1}{%
-        {{U}niversitat de {G}irona}, {{U}niversité de {B}ourgogne}%
+        {{U}niversitat de {G}irona}, {{U}niversit\'e de {B}ourgogne}%
       }
       \list{location}{1}{%
         {Girona ({C}atalunya)}%
@@ -61,7 +60,6 @@
       \strng{namehash}{fe665a7a657d3ced0de31fbd0cef5e39}
       \strng{fullhash}{fe665a7a657d3ced0de31fbd0cef5e39}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Deformable object segmentation in ultra-sound images}
       \field{month}{12}
       \field{title}{Deformable object segmentation in ultra-sound images}
@@ -73,24 +71,24 @@
       \name{labelname}{6}{}{%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=f7a2a29adfb0c0b4a7ec56f17c40608b}{P{é}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=13ec4fdaacbbedb12ec26c4730be2218}{P{\'e}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=5da3b4d7102cc9a450a12e8b5776716f}{Mart{\'\i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
         {{hash=5f2fa14c48d87af68a2e73c6228ca4bb}{Oliver}{O\bibinitperiod}{Arnau}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc2fe98c832afa25b0bd4b416a1f544}{Mart{í}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=e14550b7db8a03e2bc267d159763715f}{Mart{\'\i}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{6}{}{%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=f7a2a29adfb0c0b4a7ec56f17c40608b}{P{é}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=13ec4fdaacbbedb12ec26c4730be2218}{P{\'e}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=5da3b4d7102cc9a450a12e8b5776716f}{Mart{\'\i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
         {{hash=5f2fa14c48d87af68a2e73c6228ca4bb}{Oliver}{O\bibinitperiod}{Arnau}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc2fe98c832afa25b0bd4b416a1f544}{Mart{í}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=e14550b7db8a03e2bc267d159763715f}{Mart{\'\i}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{4}{}{%
-        {{hash=ab6c10ede0f3647c6a8e915d9f8d2492}{Martí}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f430ea1d3ea863ba73169f800ed9cd88}{Martí}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=5f2fa14c48d87af68a2e73c6228ca4bb}{Oliver}{O\bibinitperiod}{Arnau}{A\bibinitperiod}{}{}{}{}}%
         {{hash=9ffc3337c02d9b5bb25485b48823246e}{Freixenet}{F\bibinitperiod}{Jordi}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=872efc00a20e686dfb8a49ed1c37ed4b}{Martí}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=8600b3336b17afa5f9f9a39751bce210}{Martí}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
       }
       \list{language}{1}{%
         {English}%
@@ -98,10 +96,9 @@
       \list{publisher}{1}{%
         {Springer Berlin Heidelberg}%
       }
-      \strng{namehash}{e1fb1c165f01d931fcbfdc65f083a6ab}
-      \strng{fullhash}{e1fb1c165f01d931fcbfdc65f083a6ab}
+      \strng{namehash}{e9ddf45c3de04d6a22f5a7050218221e}
+      \strng{fullhash}{e9ddf45c3de04d6a22f5a7050218221e}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Lesion Segmentation in Breast Sonography}
       \field{booktitle}{Digital Mammography}
       \field{isbn}{978-3-642-13665-8}
@@ -123,18 +120,18 @@
       \name{labelname}{6}{}{%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=f7a2a29adfb0c0b4a7ec56f17c40608b}{P{é}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=13ec4fdaacbbedb12ec26c4730be2218}{P{\'e}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=5da3b4d7102cc9a450a12e8b5776716f}{Mart{\'\i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
         {{hash=5f2fa14c48d87af68a2e73c6228ca4bb}{Oliver}{O\bibinitperiod}{Arnau}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc2fe98c832afa25b0bd4b416a1f544}{Mart{í}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=e14550b7db8a03e2bc267d159763715f}{Mart{\'\i}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{6}{}{%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=f7a2a29adfb0c0b4a7ec56f17c40608b}{P{é}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=13ec4fdaacbbedb12ec26c4730be2218}{P{\'e}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=5da3b4d7102cc9a450a12e8b5776716f}{Mart{\'\i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
         {{hash=5f2fa14c48d87af68a2e73c6228ca4bb}{Oliver}{O\bibinitperiod}{Arnau}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc2fe98c832afa25b0bd4b416a1f544}{Mart{í}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=e14550b7db8a03e2bc267d159763715f}{Mart{\'\i}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{6}{}{%
         {{hash=0c5eba8f8bcc92e115dd2c56dc9c8429}{Tanner}{T\bibinitperiod}{Christine}{C\bibinitperiod}{}{}{}{}}%
@@ -147,10 +144,9 @@
       \list{publisher}{1}{%
         {Department of computer sicence ({DIKU}), {U}niversity of {C}openhagen}%
       }
-      \strng{namehash}{e1fb1c165f01d931fcbfdc65f083a6ab}
-      \strng{fullhash}{e1fb1c165f01d931fcbfdc65f083a6ab}
+      \strng{namehash}{e9ddf45c3de04d6a22f5a7050218221e}
+      \strng{fullhash}{e9ddf45c3de04d6a22f5a7050218221e}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Seed selection criteria for breast lesion segmentation in ultra-sound images}
       \field{booktitle}{Proc. {MICCAI} 2011 {W}orkshop on {B}reast {I}mage {A}nalysis}
       \field{isbn}{978-87-981270-9-3}
@@ -165,13 +161,13 @@
       \name{labelname}{4}{}{%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc2fe98c832afa25b0bd4b416a1f544}{Mart{í}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6add6d5c91b80d2ef5a38c07b59065d4}{Mart{\'i}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc2fe98c832afa25b0bd4b416a1f544}{Mart{í}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6add6d5c91b80d2ef5a38c07b59065d4}{Mart{\'i}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
       }
       \list{language}{1}{%
@@ -180,10 +176,9 @@
       \list{location}{1}{%
         {Munich, Germany}%
       }
-      \strng{namehash}{29166643754eb922d66740c8723bdd32}
-      \strng{fullhash}{29166643754eb922d66740c8723bdd32}
+      \strng{namehash}{9272279c7469dc09144f7fa7270b5a80}
+      \strng{fullhash}{9272279c7469dc09144f7fa7270b5a80}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{An optimization approach to segment breast lesions in ultra-sound images using clinically validated visual cues}
       \field{booktitle}{Proc. {MICCAI} 2015 {W}orkshop on {B}reast {I}mage {A}nalysis ({BIA})}
       \field{month}{10}
@@ -196,24 +191,24 @@
       \name{labelname}{9}{}{%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=a7eb979db5306542fb25534de5eeab96}{Sent{í}s}{S\bibinitperiod}{Melcior}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=10eb8eafe20e4627b700ae8fbd041c5c}{Sent{\'i}s}{S\bibinitperiod}{Melcior}{M\bibinitperiod}{}{}{}{}}%
         {{hash=371468d61f0bb018ad628eb1d81400ec}{Ganau}{G\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=f7a2a29adfb0c0b4a7ec56f17c40608b}{P{é}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=13ec4fdaacbbedb12ec26c4730be2218}{P{\'e}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
         {{hash=bd0a13d23738d27809950232bea3790a}{Puig}{P\bibinitperiod}{Domenec}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b83180e7de3c4e94fe75e7ce73c5bfc5}{Mart{\'i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
         {{hash=5f2fa14c48d87af68a2e73c6228ca4bb}{Oliver}{O\bibinitperiod}{Arnau}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=7a5e083497df8200982793d0fb617ac8}{Mart{í}­}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=dbd91b3f5235e7aef78a71e91c4cb29c}{Mart{\'i}­}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{9}{}{%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=a7eb979db5306542fb25534de5eeab96}{Sent{í}s}{S\bibinitperiod}{Melcior}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=10eb8eafe20e4627b700ae8fbd041c5c}{Sent{\'i}s}{S\bibinitperiod}{Melcior}{M\bibinitperiod}{}{}{}{}}%
         {{hash=371468d61f0bb018ad628eb1d81400ec}{Ganau}{G\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=f7a2a29adfb0c0b4a7ec56f17c40608b}{P{é}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=13ec4fdaacbbedb12ec26c4730be2218}{P{\'e}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
         {{hash=bd0a13d23738d27809950232bea3790a}{Puig}{P\bibinitperiod}{Domenec}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b83180e7de3c4e94fe75e7ce73c5bfc5}{Mart{\'i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
         {{hash=5f2fa14c48d87af68a2e73c6228ca4bb}{Oliver}{O\bibinitperiod}{Arnau}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=7a5e083497df8200982793d0fb617ac8}{Mart{í}­}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=dbd91b3f5235e7aef78a71e91c4cb29c}{Mart{\'i}­}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{3}{}{%
         {{hash=d16f9fafe7f63289c10cc78b70a52066}{Fujita}{F\bibinitperiod}{Hiroshi}{H\bibinitperiod}{}{}{}{}}%
@@ -226,10 +221,9 @@
       \list{publisher}{1}{%
         {Springer International Publishing}%
       }
-      \strng{namehash}{d8839f2c5a95dc4eb73c10719d60df02}
-      \strng{fullhash}{d8839f2c5a95dc4eb73c10719d60df02}
+      \strng{namehash}{5f1a5701f286764781b62cdacab60156}
+      \strng{fullhash}{5f1a5701f286764781b62cdacab60156}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{SIFT Texture Description for Understanding Breast Ultrasound Images}
       \field{booktitle}{Breast Imaging}
       \field{isbn}{978-3-319-07886-1}
@@ -250,22 +244,22 @@
       \name{labelname}{8}{}{%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=25928b13a541c3efcb2a283c1b21b66f}{Sant{í}s}{S\bibinitperiod}{Melci{ó}}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0abc656b316f7020cd5481b339ec8ab2}{Sant{\'\i}s}{S\bibinitperiod}{Melci{\'o}}{M\bibinitperiod}{}{}{}{}}%
         {{hash=371468d61f0bb018ad628eb1d81400ec}{Ganau}{G\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=f7a2a29adfb0c0b4a7ec56f17c40608b}{P{é}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=13ec4fdaacbbedb12ec26c4730be2218}{P{\'e}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=5da3b4d7102cc9a450a12e8b5776716f}{Mart{\'\i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
         {{hash=5f2fa14c48d87af68a2e73c6228ca4bb}{Oliver}{O\bibinitperiod}{Arnau}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc2fe98c832afa25b0bd4b416a1f544}{Mart{í}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6add6d5c91b80d2ef5a38c07b59065d4}{Mart{\'i}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{8}{}{%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=25928b13a541c3efcb2a283c1b21b66f}{Sant{í}s}{S\bibinitperiod}{Melci{ó}}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=0abc656b316f7020cd5481b339ec8ab2}{Sant{\'\i}s}{S\bibinitperiod}{Melci{\'o}}{M\bibinitperiod}{}{}{}{}}%
         {{hash=371468d61f0bb018ad628eb1d81400ec}{Ganau}{G\bibinitperiod}{Sergi}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=f7a2a29adfb0c0b4a7ec56f17c40608b}{P{é}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=13ec4fdaacbbedb12ec26c4730be2218}{P{\'e}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=5da3b4d7102cc9a450a12e8b5776716f}{Mart{\'\i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
         {{hash=5f2fa14c48d87af68a2e73c6228ca4bb}{Oliver}{O\bibinitperiod}{Arnau}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=3cc2fe98c832afa25b0bd4b416a1f544}{Mart{í}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=6add6d5c91b80d2ef5a38c07b59065d4}{Mart{\'i}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{3}{}{%
         {{hash=c62d8026744370cb5c15fdffcec9f044}{Maidment}{M\bibinitperiod}{AndrewD.A.}{A\bibinitperiod}{}{}{}{}}%
@@ -278,10 +272,9 @@
       \list{publisher}{1}{%
         {Springer Berlin Heidelberg}%
       }
-      \strng{namehash}{29ccc54316a5dd1a506790f2c15f47a0}
-      \strng{fullhash}{29ccc54316a5dd1a506790f2c15f47a0}
+      \strng{namehash}{dc031a38022c76b62912f05f691b55d0}
+      \strng{fullhash}{dc031a38022c76b62912f05f691b55d0}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Automatic seed placement for breast lesion segmentation on {US} images}
       \field{booktitle}{Breast Imaging}
       \field{isbn}{978-3-642-31270-0}
@@ -323,7 +316,6 @@
       \strng{namehash}{3d9a01b32783e36d3782a452dea2c11a}
       \strng{fullhash}{3d9a01b32783e36d3782a452dea2c11a}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Classification of {SD-OCT} volumes with {LBP}: {A}pplication to {DME} detection}
       \field{booktitle}{Proc. {MICCAI} 2015 {W}orkshop on {O}phthalmic {M}edical {I}mage {A}nalysis ({OMIA})}
       \field{month}{10}
@@ -334,31 +326,30 @@
     \endentry
     \entry{lemaitre2016classification}{article}{}
       \name{labelname}{9}{}{%
-        {{hash=3ac9ad638674569823cdf312f5be4635}{Lema{ı}tre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=648c8db32632e224884803db920f042d}{Lema{\i}tre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
         {{hash=cfda8b5fbe1790d3949d705f8c080269}{Rastgoo}{R\bibinitperiod}{Mojdeh}{M\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=039ef43b2eb3f79f4642156fc539bece}{Cheung}{C\bibinitperiod}{Carol\bibnamedelima Y}{C\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
         {{hash=45aa36378e13ebc805da5438a7dc307c}{Wong}{W\bibinitperiod}{Tien\bibnamedelima Y}{T\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
         {{hash=3bdb9d803f390a338e66051842b49de3}{Lamoureux}{L\bibinitperiod}{Ecosse}{E\bibinitperiod}{}{}{}{}}%
         {{hash=ee82aa1db5372afdc255b3bacd8c8fcf}{Milea}{M\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=e7ed401eb1bce79710aacf2d711e6964}{M{é}riaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=c9a709b1afeb82ded007430ea109b278}{Sidib{é}}{S\bibinitperiod}{D{é}sir{é}}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=c9eabbc2059043877c21683d70d11f1e}{M{\'e}riaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=16bd6c852bf588640e7b137b63010b0b}{Sidib{\'e}}{S\bibinitperiod}{D{\'e}sir{\'e}}{D\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{9}{}{%
-        {{hash=3ac9ad638674569823cdf312f5be4635}{Lema{ı}tre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=648c8db32632e224884803db920f042d}{Lema{\i}tre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
         {{hash=cfda8b5fbe1790d3949d705f8c080269}{Rastgoo}{R\bibinitperiod}{Mojdeh}{M\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=039ef43b2eb3f79f4642156fc539bece}{Cheung}{C\bibinitperiod}{Carol\bibnamedelima Y}{C\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
         {{hash=45aa36378e13ebc805da5438a7dc307c}{Wong}{W\bibinitperiod}{Tien\bibnamedelima Y}{T\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
         {{hash=3bdb9d803f390a338e66051842b49de3}{Lamoureux}{L\bibinitperiod}{Ecosse}{E\bibinitperiod}{}{}{}{}}%
         {{hash=ee82aa1db5372afdc255b3bacd8c8fcf}{Milea}{M\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=e7ed401eb1bce79710aacf2d711e6964}{M{é}riaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=c9a709b1afeb82ded007430ea109b278}{Sidib{é}}{S\bibinitperiod}{D{é}sir{é}}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=c9eabbc2059043877c21683d70d11f1e}{M{\'e}riaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=16bd6c852bf588640e7b137b63010b0b}{Sidib{\'e}}{S\bibinitperiod}{D{\'e}sir{\'e}}{D\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{833f777954f9f9b7eb1e087cb44f1306}
-      \strng{fullhash}{833f777954f9f9b7eb1e087cb44f1306}
+      \strng{namehash}{315cc56554ec83b48a354b0168a59b35}
+      \strng{fullhash}{315cc56554ec83b48a354b0168a59b35}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Classification of SD-OCT Volumes using Local Binary Patterns: Experimental Validation for DME Detection}
       \field{journaltitle}{Journal of Ophthalmology}
       \field{title}{Classification of SD-OCT Volumes using Local Binary Patterns: Experimental Validation for DME Detection}
@@ -369,9 +360,9 @@
     \entry{sidibe2017anomaly}{article}{}
       \true{morelabelname}
       \name{labelname}{10}{}{%
-        {{hash=c9a709b1afeb82ded007430ea109b278}{Sidib{é}}{S\bibinitperiod}{D{é}sir{é}}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=16bd6c852bf588640e7b137b63010b0b}{Sidib{\'e}}{S\bibinitperiod}{D{\'e}sir{\'e}}{D\bibinitperiod}{}{}{}{}}%
         {{hash=415f361c20566c0bdf0d023a93714d76}{Sankar}{S\bibinitperiod}{Shrinivasan}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=d26530e5943c86e3043fa86d478588e5}{Lema{î}tre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=912ee0e28c6b228281831bc57e9e3e03}{Lema{\^\i}tre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
         {{hash=cfda8b5fbe1790d3949d705f8c080269}{Rastgoo}{R\bibinitperiod}{Mojdeh}{M\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=039ef43b2eb3f79f4642156fc539bece}{Cheung}{C\bibinitperiod}{Carol\bibnamedelima Y}{C\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
@@ -382,9 +373,9 @@
       }
       \true{moreauthor}
       \name{author}{10}{}{%
-        {{hash=c9a709b1afeb82ded007430ea109b278}{Sidib{é}}{S\bibinitperiod}{D{é}sir{é}}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=16bd6c852bf588640e7b137b63010b0b}{Sidib{\'e}}{S\bibinitperiod}{D{\'e}sir{\'e}}{D\bibinitperiod}{}{}{}{}}%
         {{hash=415f361c20566c0bdf0d023a93714d76}{Sankar}{S\bibinitperiod}{Shrinivasan}{S\bibinitperiod}{}{}{}{}}%
-        {{hash=d26530e5943c86e3043fa86d478588e5}{Lema{î}tre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=912ee0e28c6b228281831bc57e9e3e03}{Lema{\^\i}tre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
         {{hash=cfda8b5fbe1790d3949d705f8c080269}{Rastgoo}{R\bibinitperiod}{Mojdeh}{M\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=039ef43b2eb3f79f4642156fc539bece}{Cheung}{C\bibinitperiod}{Carol\bibnamedelima Y}{C\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
@@ -396,10 +387,9 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{b9ec09ed5fa6e7fa68ee23ec9e0f8980}
-      \strng{fullhash}{b9ec09ed5fa6e7fa68ee23ec9e0f8980}
+      \strng{namehash}{ab05c6e9c2329059c33e8b76a3d05d4b}
+      \strng{fullhash}{ab05c6e9c2329059c33e8b76a3d05d4b}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{An anomaly detection approach for the identification of DME patients using spectral domain optical coherence tomography images}
       \field{journaltitle}{Computer Methods and Programs in Biomedicine}
       \field{title}{An anomaly detection approach for the identification of DME patients using spectral domain optical coherence tomography images}
@@ -436,7 +426,6 @@
       \strng{namehash}{3945014b8ae167d189b0f0d4eb73eb71}
       \strng{fullhash}{3945014b8ae167d189b0f0d4eb73eb71}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Classifying DME vs normal SD-OCT volumes: A review}
       \field{booktitle}{23rd {I}nternational {C}onference on {P}attern {R}ecognition ({ICPR})}
       \field{month}{12}
@@ -469,7 +458,6 @@
       \strng{namehash}{13f3ab66696c46d166bf6f9fe68f9de4}
       \strng{fullhash}{13f3ab66696c46d166bf6f9fe68f9de4}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Nondestructive testing based on scanning-from-heating approach: application to nonthrough defect detection and fiber orientation assessment}
       \field{journaltitle}{Journal of Electronic Imaging}
       \field{number}{6}
@@ -482,32 +470,31 @@
     \entry{alsaih2016classification}{inproceedings}{}
       \name{labelname}{10}{}{%
         {{hash=b9d652f136f3af412d4ed3bfe8b96fb2}{Alsaih}{A\bibinitperiod}{Khaled}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=d26530e5943c86e3043fa86d478588e5}{Lema{î}tre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=912ee0e28c6b228281831bc57e9e3e03}{Lema{\^\i}tre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=cfda8b5fbe1790d3949d705f8c080269}{Rastgoo}{R\bibinitperiod}{Mojdeh}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=c9a709b1afeb82ded007430ea109b278}{Sidib{é}}{S\bibinitperiod}{D{é}sir{é}}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=16bd6c852bf588640e7b137b63010b0b}{Sidib{\'e}}{S\bibinitperiod}{D{\'e}sir{\'e}}{D\bibinitperiod}{}{}{}{}}%
         {{hash=45aa36378e13ebc805da5438a7dc307c}{Wong}{W\bibinitperiod}{Tien\bibnamedelima Y}{T\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
         {{hash=3bdb9d803f390a338e66051842b49de3}{Lamoureux}{L\bibinitperiod}{Ecosse}{E\bibinitperiod}{}{}{}{}}%
         {{hash=ee82aa1db5372afdc255b3bacd8c8fcf}{Milea}{M\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
         {{hash=039ef43b2eb3f79f4642156fc539bece}{Cheung}{C\bibinitperiod}{Carol\bibnamedelima Y}{C\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
-        {{hash=e7ed401eb1bce79710aacf2d711e6964}{M{é}riaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=c9eabbc2059043877c21683d70d11f1e}{M{\'e}riaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{10}{}{%
         {{hash=b9d652f136f3af412d4ed3bfe8b96fb2}{Alsaih}{A\bibinitperiod}{Khaled}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=d26530e5943c86e3043fa86d478588e5}{Lema{î}tre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=912ee0e28c6b228281831bc57e9e3e03}{Lema{\^\i}tre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=cfda8b5fbe1790d3949d705f8c080269}{Rastgoo}{R\bibinitperiod}{Mojdeh}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=c9a709b1afeb82ded007430ea109b278}{Sidib{é}}{S\bibinitperiod}{D{é}sir{é}}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=16bd6c852bf588640e7b137b63010b0b}{Sidib{\'e}}{S\bibinitperiod}{D{\'e}sir{\'e}}{D\bibinitperiod}{}{}{}{}}%
         {{hash=45aa36378e13ebc805da5438a7dc307c}{Wong}{W\bibinitperiod}{Tien\bibnamedelima Y}{T\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
         {{hash=3bdb9d803f390a338e66051842b49de3}{Lamoureux}{L\bibinitperiod}{Ecosse}{E\bibinitperiod}{}{}{}{}}%
         {{hash=ee82aa1db5372afdc255b3bacd8c8fcf}{Milea}{M\bibinitperiod}{Dan}{D\bibinitperiod}{}{}{}{}}%
         {{hash=039ef43b2eb3f79f4642156fc539bece}{Cheung}{C\bibinitperiod}{Carol\bibnamedelima Y}{C\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
-        {{hash=e7ed401eb1bce79710aacf2d711e6964}{M{é}riaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=c9eabbc2059043877c21683d70d11f1e}{M{\'e}riaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{343fb0c8b6d6b5c87b76fe8ae4d23250}
-      \strng{fullhash}{343fb0c8b6d6b5c87b76fe8ae4d23250}
+      \strng{namehash}{5871b491155645b18fb718a2811dd057}
+      \strng{fullhash}{5871b491155645b18fb718a2811dd057}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Classification of SD-OCT volumes with multi pyramids, LBP and HOG descriptors: application to DME detections}
       \field{booktitle}{38th {IEEE} {E}ngineering in {M}edicine and {B}iology {S}ociety ({EMBC})}
       \field{title}{Classification of SD-OCT volumes with multi pyramids, LBP and HOG descriptors: application to DME detections}
@@ -546,7 +533,6 @@
       \strng{namehash}{b9006a18dd390085cef1a66a7f863ef4}
       \strng{fullhash}{b9006a18dd390085cef1a66a7f863ef4}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Wood fiber orientation assessment based on punctual laser beam excitation}
       \field{booktitle}{13rd {Q}uantitative {I}nfrared {T}hermography {C}onference ({QIRT})}
       \field{month}{06}
@@ -582,7 +568,6 @@
       \strng{namehash}{798b73c4a0d49956687a8c704dcb7035}
       \strng{fullhash}{798b73c4a0d49956687a8c704dcb7035}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Tackling the Problem of Data Imbalancing for Melanoma Classification}
       \field{booktitle}{3rd {I}nternational conference on {BIOIMAGING}}
       \field{month}{02}
@@ -600,7 +585,7 @@
         {{hash=a5efb6a4a29f3cc9a83d1b3ec9d18fde}{Walker}{W\bibinitperiod}{Paul\bibnamedelima M.}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{hash=9ffc3337c02d9b5bb25485b48823246e}{Freixenet}{F\bibinitperiod}{Jordi}{J\bibinitperiod}{}{}{}{}}%
         {{hash=894fcc4d3cc2ab9e66ad17188d8cfddb}{Meyer-Baese}{M\bibinithyphendelim B\bibinitperiod}{Anke}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b83180e7de3c4e94fe75e7ce73c5bfc5}{Mart{\'i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{9}{}{%
@@ -611,7 +596,7 @@
         {{hash=a5efb6a4a29f3cc9a83d1b3ec9d18fde}{Walker}{W\bibinitperiod}{Paul\bibnamedelima M.}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{hash=9ffc3337c02d9b5bb25485b48823246e}{Freixenet}{F\bibinitperiod}{Jordi}{J\bibinitperiod}{}{}{}{}}%
         {{hash=894fcc4d3cc2ab9e66ad17188d8cfddb}{Meyer-Baese}{M\bibinithyphendelim B\bibinitperiod}{Anke}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b83180e7de3c4e94fe75e7ce73c5bfc5}{Mart{\'i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
       }
       \list{language}{1}{%
@@ -620,10 +605,9 @@
       \list{location}{1}{%
         {S}an {D}iego, {USA}%
       }
-      \strng{namehash}{9b438ca29962a777b16165367c9dad05}
-      \strng{fullhash}{9b438ca29962a777b16165367c9dad05}
+      \strng{namehash}{72848fa6d94870599a2e1924d3fa7cc2}
+      \strng{fullhash}{72848fa6d94870599a2e1924d3fa7cc2}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{{N}ormalization of {T2W-MRI} Prostate Images using {R}ician a priori}
       \field{booktitle}{{SPIE} {M}edical {I}maging 2016}
       \field{month}{02}
@@ -661,7 +645,6 @@
       \strng{namehash}{158d5a9a5d05c318204323d0ad042a81}
       \strng{fullhash}{158d5a9a5d05c318204323d0ad042a81}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Classification of melanoma lesions using sparse coded features and random forests}
       \field{booktitle}{{SPIE} {M}edical {I}maging 2016}
       \field{month}{02}
@@ -692,7 +675,6 @@
       \strng{namehash}{ae058e7e0d5f9e2c7ee520893b328950}
       \strng{fullhash}{ae058e7e0d5f9e2c7ee520893b328950}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{{R}eal-{T}ime {O}ptical {F}low with {T}heoretically {J}ustified {W}arping {A}pplied to {M}edical {I}maging}
       \field{booktitle}{Proc. {MICCAI} 2015 {W}orkshop on {O}phthalmic {M}edical {I}mage {A}nalysis ({OMIA})}
       \field{month}{10}
@@ -705,7 +687,7 @@
       \name{labelname}{8}{}{%
         {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b83180e7de3c4e94fe75e7ce73c5bfc5}{Mart{\'i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
         {{hash=0df86c3acc280f2088bf68368c441543}{Jordi}{J\bibinitperiod}{Freixenet}{F\bibinitperiod}{}{}{}{}}%
         {{hash=ebbb92de5cda51d1f2861fb97743be0c}{Vilanova}{V\bibinitperiod}{J.C.}{J\bibinitperiod}{}{}{}{}}%
         {{hash=614069de0b349c8cb8136905ff8f1d13}{Walker}{W\bibinitperiod}{P.M.}{P\bibinitperiod}{}{}{}{}}%
@@ -715,7 +697,7 @@
       \name{author}{8}{}{%
         {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=b83180e7de3c4e94fe75e7ce73c5bfc5}{Mart{\'i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
         {{hash=0df86c3acc280f2088bf68368c441543}{Jordi}{J\bibinitperiod}{Freixenet}{F\bibinitperiod}{}{}{}{}}%
         {{hash=ebbb92de5cda51d1f2861fb97743be0c}{Vilanova}{V\bibinitperiod}{J.C.}{J\bibinitperiod}{}{}{}{}}%
         {{hash=614069de0b349c8cb8136905ff8f1d13}{Walker}{W\bibinitperiod}{P.M.}{P\bibinitperiod}{}{}{}{}}%
@@ -728,10 +710,9 @@
       \list{location}{1}{%
         {Le Creusot, France}%
       }
-      \strng{namehash}{418a01fbd60a1f1a5851327e571906ec}
-      \strng{fullhash}{418a01fbd60a1f1a5851327e571906ec}
+      \strng{namehash}{1f1b330daa4d4591d1054b2430a6e466}
+      \strng{fullhash}{1f1b330daa4d4591d1054b2430a6e466}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{A Boosting Approach for Prostate Cancer Detection using Multi-parametric MRI}
       \field{booktitle}{Proc. International Conference on Quality Ciontrol and Artificial Vision (QCAV)}
       \field{month}{06}
@@ -764,7 +745,6 @@
       \strng{namehash}{a773e6420e893c7047c769dee9fad1cf}
       \strng{fullhash}{a773e6420e893c7047c769dee9fad1cf}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Business Model Design for University Technology Valorisation}
       \field{booktitle}{Proc. International Technology, Education and Development Conference (INTED)}
       \field{title}{Business Model Design for University Technology Valorisation}
@@ -776,13 +756,13 @@
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=7a5e083497df8200982793d0fb617ac8}{Mart{í}­}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=dbd91b3f5235e7aef78a71e91c4cb29c}{Mart{\'i}­}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=7a5e083497df8200982793d0fb617ac8}{Mart{í}­}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=dbd91b3f5235e7aef78a71e91c4cb29c}{Mart{\'i}­}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
       }
       \list{language}{1}{%
         {English}%
@@ -790,10 +770,9 @@
       \list{location}{1}{%
         {Le Creusot, France}%
       }
-      \strng{namehash}{547dc4be640405c0763efe9cc489fb61}
-      \strng{fullhash}{547dc4be640405c0763efe9cc489fb61}
+      \strng{namehash}{4562ccb147f8808782f0a61b621c6932}
+      \strng{fullhash}{4562ccb147f8808782f0a61b621c6932}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Breast Ultra-Sound Image Segmentation: an Optimization approach based on super-pixels and high-level descriptors}
       \field{booktitle}{Proc. International Conference on Quality Ciontrol and Artificial Vision (QCAV)}
       \field{month}{06}
@@ -804,39 +783,38 @@
     \endentry
     \entry{massich2011book}{inbook}{}
       \name{labelname}{9}{}{%
-        {{hash=3cc2fe98c832afa25b0bd4b416a1f544}{Mart{í}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=966741753e214382f611f919b278ab63}{Gubern-M{é}rida}{G\bibinithyphendelim M\bibinitperiod}{}{}{}{}{}{}}%
+        {{hash=e14550b7db8a03e2bc267d159763715f}{Mart{\'\i}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3abb75b681974353e9df7bc6a909ad79}{Gubern-M{\'e}rida}{G\bibinithyphendelim M\bibinitperiod}{}{}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=5f2fa14c48d87af68a2e73c6228ca4bb}{Oliver}{O\bibinitperiod}{Arnau}{A\bibinitperiod}{}{}{}{}}%
         {{hash=db5255a6f51ee2e844c5132b91f7b02a}{Vilanova}{V\bibinitperiod}{Joan\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
         {{hash=0ad4915a44ff0846c7b26572ebd3dc3e}{Comet}{C\bibinitperiod}{Josep}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=f7a2a29adfb0c0b4a7ec56f17c40608b}{P{é}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=13ec4fdaacbbedb12ec26c4730be2218}{P{\'e}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
         {{hash=b01d5e5eea9627735a05757927471a14}{M}{M\bibinitperiod}{Arzoz}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5da3b4d7102cc9a450a12e8b5776716f}{Mart{\'\i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{9}{}{%
-        {{hash=3cc2fe98c832afa25b0bd4b416a1f544}{Mart{í}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=966741753e214382f611f919b278ab63}{Gubern-M{é}rida}{G\bibinithyphendelim M\bibinitperiod}{}{}{}{}{}{}}%
+        {{hash=e14550b7db8a03e2bc267d159763715f}{Mart{\'\i}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3abb75b681974353e9df7bc6a909ad79}{Gubern-M{\'e}rida}{G\bibinithyphendelim M\bibinitperiod}{}{}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=5f2fa14c48d87af68a2e73c6228ca4bb}{Oliver}{O\bibinitperiod}{Arnau}{A\bibinitperiod}{}{}{}{}}%
         {{hash=db5255a6f51ee2e844c5132b91f7b02a}{Vilanova}{V\bibinitperiod}{Joan\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
         {{hash=0ad4915a44ff0846c7b26572ebd3dc3e}{Comet}{C\bibinitperiod}{Josep}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=f7a2a29adfb0c0b4a7ec56f17c40608b}{P{é}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=13ec4fdaacbbedb12ec26c4730be2218}{P{\'e}rez}{P\bibinitperiod}{Elsa}{E\bibinitperiod}{}{}{}{}}%
         {{hash=b01d5e5eea9627735a05757927471a14}{M}{M\bibinitperiod}{Arzoz}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=eb627bda81bf222c50f60ffb12c8801c}{Mart{í}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=5da3b4d7102cc9a450a12e8b5776716f}{Mart{\'\i}}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{3}{}{%
-        {{hash=b6d2d81f8d8ee0039150cb154204f5b7}{G{ó}rriz}{G\bibinitperiod}{Juan\bibnamedelima Manuel}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=a0a8048b0f155203ed90a08934e2918b}{G{\'o}rriz}{G\bibinitperiod}{Juan\bibnamedelima Manuel}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
         {{hash=440dd2cfe5ed85e0eabbedc122a5127a}{Lang}{L\bibinitperiod}{Elmar\bibnamedelima W}{E\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{hash=484b802c84e41808d34f73b3717e6261}{Ram{í}rez}{R\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=c1684d2f87dd66f02cc6a6088499f568}{Ram{\'\i}rez}{R\bibinitperiod}{Javier}{J\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Bentham Science Publishers}%
       }
-      \strng{namehash}{35890fa0762fc563b49b307e999355d5}
-      \strng{fullhash}{35890fa0762fc563b49b307e999355d5}
+      \strng{namehash}{1079d32378d0ca7ba738dbee128db4bc}
+      \strng{fullhash}{1079d32378d0ca7ba738dbee128db4bc}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Ultrasound Image Analysis. {M}ethods and Applications.}
       \field{booktitle}{Recent advances in biomedical signal processing}
       \field{title}{Ultrasound Image Analysis. {M}ethods and Applications.}
@@ -864,7 +842,6 @@
       \strng{namehash}{3e6132b035ab6f17de92a4908a4a46c2}
       \strng{fullhash}{3e6132b035ab6f17de92a4908a4a46c2}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Plane-based calibration of a projector-camera system}
       \field{month}{12}
       \field{title}{Plane-based calibration of a projector-camera system}
@@ -894,7 +871,6 @@
       \strng{namehash}{787eb31085e3f7b36dd262d6f20908ad}
       \strng{fullhash}{787eb31085e3f7b36dd262d6f20908ad}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Projector-camera calibration toolbox}
       \field{month}{02}
       \field{title}{Projector-camera calibration toolbox}
@@ -909,29 +885,29 @@
     \entry{ribas2006ictineu}{resreport}{}
       \name{labelname}{11}{}{%
         {{hash=3e7ceba434ecebea8e750c30187ef71e}{Ribas}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d16fb2fd7b95ea2b0dc9271873cfdce1}{Palomeras}{P\bibinitperiod}{Narc{í}s}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=2bfea33324d2cd1f27017ee7be5d12fb}{Palomeras}{P\bibinitperiod}{Narc{\'i}s}{N\bibinitperiod}{}{}{}{}}%
         {{hash=b0fcce876aba291d7c1579a7422dc34a}{Ribas}{R\bibinitperiod}{Xavier}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=b5978dd5448f1ebde26a40b93841dd54}{Garc{í}a\bibnamedelimb de\bibnamedelima {M}arina}{G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod}{Guillermo}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=7ad6c60ff3a1f42654d0155011744e8a}{Hern{á}ndez}{H\bibinitperiod}{Emili}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=6c50846eb4e9574d1312fdfd64802c12}{Chung}{C\bibinitperiod}{Fran{ć}ois}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=c957f1a8db63f2999c4634d1860a8d0c}{Hurt{ó}s}{H\bibinitperiod}{Natalia}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=0da6ae1cfa549aeabb7c366984de9d33}{Garc{\'\i}a\bibnamedelimb de\bibnamedelima {M}arina}{G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod}{Guillermo}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=708e8885be1abf24f6dace4692310e1b}{Hern{\'a}ndez}{H\bibinitperiod}{Emili}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=069634490a4655727904936135e2fde0}{Chung}{C\bibinitperiod}{Fran{\'c}ois}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=5ee1670b4c3ff23bd875484b17ad1085}{Hurt{\'o}s}{H\bibinitperiod}{Natalia}{N\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=030b3d37ef62786e9a8ca0d87414c6e9}{Almohaya}{A\bibinitperiod}{Antonio}{A\bibinitperiod}{}{}{}{}}%
         {{hash=4f4ffc7b2fbb9f4a9e2c937f6ef48c91}{Vila}{V\bibinitperiod}{Josep}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=c19cd4cf47440d0b134600d9123d197e}{El-fakdi}{E\bibinithyphendelim f\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=59e27a22b86ba6ac4bbb4d8d88c66b5c}{El-fakdi}{E\bibinithyphendelim f\bibinitperiod}{Andr{\'e}s}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{11}{}{%
         {{hash=3e7ceba434ecebea8e750c30187ef71e}{Ribas}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d16fb2fd7b95ea2b0dc9271873cfdce1}{Palomeras}{P\bibinitperiod}{Narc{í}s}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=2bfea33324d2cd1f27017ee7be5d12fb}{Palomeras}{P\bibinitperiod}{Narc{\'i}s}{N\bibinitperiod}{}{}{}{}}%
         {{hash=b0fcce876aba291d7c1579a7422dc34a}{Ribas}{R\bibinitperiod}{Xavier}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=b5978dd5448f1ebde26a40b93841dd54}{Garc{í}a\bibnamedelimb de\bibnamedelima {M}arina}{G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod}{Guillermo}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=7ad6c60ff3a1f42654d0155011744e8a}{Hern{á}ndez}{H\bibinitperiod}{Emili}{E\bibinitperiod}{}{}{}{}}%
-        {{hash=6c50846eb4e9574d1312fdfd64802c12}{Chung}{C\bibinitperiod}{Fran{ć}ois}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=c957f1a8db63f2999c4634d1860a8d0c}{Hurt{ó}s}{H\bibinitperiod}{Natalia}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=0da6ae1cfa549aeabb7c366984de9d33}{Garc{\'\i}a\bibnamedelimb de\bibnamedelima {M}arina}{G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod}{Guillermo}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=708e8885be1abf24f6dace4692310e1b}{Hern{\'a}ndez}{H\bibinitperiod}{Emili}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=069634490a4655727904936135e2fde0}{Chung}{C\bibinitperiod}{Fran{\'c}ois}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=5ee1670b4c3ff23bd875484b17ad1085}{Hurt{\'o}s}{H\bibinitperiod}{Natalia}{N\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=030b3d37ef62786e9a8ca0d87414c6e9}{Almohaya}{A\bibinitperiod}{Antonio}{A\bibinitperiod}{}{}{}{}}%
         {{hash=4f4ffc7b2fbb9f4a9e2c937f6ef48c91}{Vila}{V\bibinitperiod}{Josep}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=c19cd4cf47440d0b134600d9123d197e}{El-fakdi}{E\bibinithyphendelim f\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=59e27a22b86ba6ac4bbb4d8d88c66b5c}{El-fakdi}{E\bibinithyphendelim f\bibinitperiod}{Andr{\'e}s}{A\bibinitperiod}{}{}{}{}}%
       }
       \list{institution}{1}{%
         {Universitat de {G}irona}%
@@ -939,10 +915,9 @@
       \list{location}{1}{%
         {Girona, Catalonia}%
       }
-      \strng{namehash}{9c69eaea394b3c9a20d175e27a0bbb06}
-      \strng{fullhash}{79b40269e8e00c051886e93ffaaee850}
+      \strng{namehash}{bfec94fd11d99e3f6916f6c99dd3951a}
+      \strng{fullhash}{c97292715af75bb4ea3e99e96eaa1740}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{{ICTINEU~AUV} Takes the Challenge}
       \field{title}{{ICTINEU~AUV} Takes the Challenge}
       \field{type}{resreport}
@@ -951,31 +926,31 @@
     \endentry
     \entry{hernandez2006ictineu}{inproceedings}{}
       \name{labelname}{13}{}{%
-        {{hash=50d6add70839bc06c9b2d5141a3312e8}{Hern{à}ndez}{H\bibinitperiod}{Emili}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=bd66ed75dcb63268efc7fcfe8668f4c0}{Hern{\`a}ndez}{H\bibinitperiod}{Emili}{E\bibinitperiod}{}{}{}{}}%
         {{hash=b4e9393fb586c68275312c7075347efb}{Ridao}{R\bibinitperiod}{Pere}{P\bibinitperiod}{}{}{}{}}%
         {{hash=db1f26bd0c999d5892b6f3212460652f}{Carreras}{C\bibinitperiod}{Marc}{M\bibinitperiod}{}{}{}{}}%
         {{hash=3e7ceba434ecebea8e750c30187ef71e}{Ribas}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d16fb2fd7b95ea2b0dc9271873cfdce1}{Palomeras}{P\bibinitperiod}{Narc{í}s}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=c19cd4cf47440d0b134600d9123d197e}{El-fakdi}{E\bibinithyphendelim f\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=6c50846eb4e9574d1312fdfd64802c12}{Chung}{C\bibinitperiod}{Fran{ć}ois}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=2bfea33324d2cd1f27017ee7be5d12fb}{Palomeras}{P\bibinitperiod}{Narc{\'i}s}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=59e27a22b86ba6ac4bbb4d8d88c66b5c}{El-fakdi}{E\bibinithyphendelim f\bibinitperiod}{Andr{\'e}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=069634490a4655727904936135e2fde0}{Chung}{C\bibinitperiod}{Fran{\'c}ois}{F\bibinitperiod}{}{}{}{}}%
         {{hash=b0fcce876aba291d7c1579a7422dc34a}{Ribas}{R\bibinitperiod}{Xavier}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=263fc7bc1fe84ae97c9f55f3e169becc}{Garc{í}a\bibnamedelimb de\bibnamedelima Marina}{G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod}{Guillermo}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=c957f1a8db63f2999c4634d1860a8d0c}{Hurt{ó}s}{H\bibinitperiod}{Natalia}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=006eab5196fdef393a6583e7181edf75}{Garc{\'\i}a\bibnamedelimb de\bibnamedelima Marina}{G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod}{Guillermo}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=5ee1670b4c3ff23bd875484b17ad1085}{Hurt{\'o}s}{H\bibinitperiod}{Natalia}{N\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=030b3d37ef62786e9a8ca0d87414c6e9}{Almohaya}{A\bibinitperiod}{Antonio}{A\bibinitperiod}{}{}{}{}}%
         {{hash=4f4ffc7b2fbb9f4a9e2c937f6ef48c91}{Vila}{V\bibinitperiod}{Josep}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{13}{}{%
-        {{hash=50d6add70839bc06c9b2d5141a3312e8}{Hern{à}ndez}{H\bibinitperiod}{Emili}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=bd66ed75dcb63268efc7fcfe8668f4c0}{Hern{\`a}ndez}{H\bibinitperiod}{Emili}{E\bibinitperiod}{}{}{}{}}%
         {{hash=b4e9393fb586c68275312c7075347efb}{Ridao}{R\bibinitperiod}{Pere}{P\bibinitperiod}{}{}{}{}}%
         {{hash=db1f26bd0c999d5892b6f3212460652f}{Carreras}{C\bibinitperiod}{Marc}{M\bibinitperiod}{}{}{}{}}%
         {{hash=3e7ceba434ecebea8e750c30187ef71e}{Ribas}{R\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{hash=d16fb2fd7b95ea2b0dc9271873cfdce1}{Palomeras}{P\bibinitperiod}{Narc{í}s}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=c19cd4cf47440d0b134600d9123d197e}{El-fakdi}{E\bibinithyphendelim f\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=6c50846eb4e9574d1312fdfd64802c12}{Chung}{C\bibinitperiod}{Fran{ć}ois}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=2bfea33324d2cd1f27017ee7be5d12fb}{Palomeras}{P\bibinitperiod}{Narc{\'i}s}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=59e27a22b86ba6ac4bbb4d8d88c66b5c}{El-fakdi}{E\bibinithyphendelim f\bibinitperiod}{Andr{\'e}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=069634490a4655727904936135e2fde0}{Chung}{C\bibinitperiod}{Fran{\'c}ois}{F\bibinitperiod}{}{}{}{}}%
         {{hash=b0fcce876aba291d7c1579a7422dc34a}{Ribas}{R\bibinitperiod}{Xavier}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=263fc7bc1fe84ae97c9f55f3e169becc}{Garc{í}a\bibnamedelimb de\bibnamedelima Marina}{G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod}{Guillermo}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=c957f1a8db63f2999c4634d1860a8d0c}{Hurt{ó}s}{H\bibinitperiod}{Natalia}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=006eab5196fdef393a6583e7181edf75}{Garc{\'\i}a\bibnamedelimb de\bibnamedelima Marina}{G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod}{Guillermo}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=5ee1670b4c3ff23bd875484b17ad1085}{Hurt{\'o}s}{H\bibinitperiod}{Natalia}{N\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=030b3d37ef62786e9a8ca0d87414c6e9}{Almohaya}{A\bibinitperiod}{Antonio}{A\bibinitperiod}{}{}{}{}}%
         {{hash=4f4ffc7b2fbb9f4a9e2c937f6ef48c91}{Vila}{V\bibinitperiod}{Josep}{J\bibinitperiod}{}{}{}{}}%
@@ -983,8 +958,8 @@
       \name{editor}{4}{}{%
         {{hash=84484c81b9e716150d2d36b597e8fc9d}{Polit}{P\bibinitperiod}{Monique}{M\bibinitperiod}{}{}{}{}}%
         {{hash=fa682c6389f13302582416aba745da84}{Talbert}{T\bibinitperiod}{Thierry}{T\bibinitperiod}{}{}{}{}}%
-        {{hash=5adb7b5a52237d37625b22e35f7e180c}{L{ó}pez}{L\bibinitperiod}{Beatriz}{B\bibinitperiod}{}{}{}{}}%
-        {{hash=17e4218312ec0f79e94c43de67737538}{Mel{é}ndez}{M\bibinitperiod}{Joaqu{í}m}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a4070d04ea613e6dcd384fc693e42217}{L{\'{o}}pez}{L\bibinitperiod}{Beatriz}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f542a29ffdf501a6fbaef6ffe0607f38}{Mel{\'{e}}ndez}{M\bibinitperiod}{Joaqu{\'{\i}}m}{J\bibinitperiod}{}{}{}{}}%
       }
       \list{language}{1}{%
         {catalan}%
@@ -992,10 +967,9 @@
       \list{publisher}{1}{%
         {{IOS} Press}%
       }
-      \strng{namehash}{ffcb1769a714c4fe6867005fbf7841c6}
-      \strng{fullhash}{9e547823d956fe8b1e0c0632d2153c41}
+      \strng{namehash}{5cb911850bca34d2beedfc77ba704d40}
+      \strng{fullhash}{f7d7f871c47b971c4dacb4e2db654fa0}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{{ICTINEU AUV}, un Robot per a Competir}
       \field{booktitle}{Artificial Intelligence Research and Development, Proceedings of the 9th International Conference of the ACIA, {CCIA} 2006}
       \field{isbn}{978-1-58603-663-8}
@@ -1009,25 +983,24 @@
     \entry{villanueva2011attracting}{inproceedings}{}
       \name{labelname}{5}{}{%
         {{hash=ad17c280b89dc3806dd4ae424bcf9241}{Villanueva}{V\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=dfb59c84f7c1aafd58bd0d495275f149}{Cuf{í}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=8b1428064270d901576ca79d724b4a99}{ElFakdi}{E\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=34274f98fe92f1bc297611db5c5d2892}{Cuf{\'\i}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=83be4c9f75624d72be87d99ca9e42d1c}{ElFakdi}{E\bibinitperiod}{Andr{\'e}s}{A\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{5}{}{%
         {{hash=ad17c280b89dc3806dd4ae424bcf9241}{Villanueva}{V\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=dfb59c84f7c1aafd58bd0d495275f149}{Cuf{í}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=8b1428064270d901576ca79d724b4a99}{ElFakdi}{E\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=34274f98fe92f1bc297611db5c5d2892}{Cuf{\'\i}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=83be4c9f75624d72be87d99ca9e42d1c}{ElFakdi}{E\bibinitperiod}{Andr{\'e}s}{A\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
       }
       \list{organization}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{664a08438eee3acb3330640e87f2e7af}
-      \strng{fullhash}{664a08438eee3acb3330640e87f2e7af}
+      \strng{namehash}{b2f1b09dcbc716ba938c6ee0c1c2d90e}
+      \strng{fullhash}{b2f1b09dcbc716ba938c6ee0c1c2d90e}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Attracting talent to increase interest for engineering among secondary school students}
       \field{booktitle}{Global Engineering Education Conference (EDUCON), 2011 IEEE}
       \field{title}{Attracting talent to increase interest for engineering among secondary school students}
@@ -1037,23 +1010,22 @@
     \endentry
     \entry{cufi2012teambased}{inproceedings}{}
       \name{labelname}{5}{}{%
-        {{hash=dfb59c84f7c1aafd58bd0d495275f149}{Cuf{í}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=34274f98fe92f1bc297611db5c5d2892}{Cuf{\'\i}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
         {{hash=ad17c280b89dc3806dd4ae424bcf9241}{Villanueva}{V\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=8b1428064270d901576ca79d724b4a99}{ElFakdi}{E\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=83be4c9f75624d72be87d99ca9e42d1c}{ElFakdi}{E\bibinitperiod}{Andr{\'e}s}{A\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{5}{}{%
-        {{hash=dfb59c84f7c1aafd58bd0d495275f149}{Cuf{í}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=34274f98fe92f1bc297611db5c5d2892}{Cuf{\'\i}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
         {{hash=ad17c280b89dc3806dd4ae424bcf9241}{Villanueva}{V\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=8b1428064270d901576ca79d724b4a99}{ElFakdi}{E\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=83be4c9f75624d72be87d99ca9e42d1c}{ElFakdi}{E\bibinitperiod}{Andr{\'e}s}{A\bibinitperiod}{}{}{}{}}%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{2731212788569e0ad96f0763ba66d60c}
-      \strng{fullhash}{2731212788569e0ad96f0763ba66d60c}
+      \strng{namehash}{3af63b4d9e5115a6a5d39003d08bb9e4}
+      \strng{fullhash}{3af63b4d9e5115a6a5d39003d08bb9e4}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Team-based Building of a Remotely Operated Robot as a Method to Increase the Interest for Engineering among Secondary School Students}
       \field{booktitle}{Proceedings of EDULEARN 2012. 4th International Conference on Education and New Learning Technologies}
       \field{month}{07}
@@ -1070,7 +1042,7 @@
         {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
         {{hash=1bfe5072e77a4c4cd376191be848453f}{Marzani}{M\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=c9a709b1afeb82ded007430ea109b278}{Sidib{é}}{S\bibinitperiod}{D{é}sir{é}}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=16bd6c852bf588640e7b137b63010b0b}{Sidib{\'e}}{S\bibinitperiod}{D{\'e}sir{\'e}}{D\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{8}{}{%
         {{hash=f1176e882079be4c3b8a6dfb3ff84d6d}{Rastgo}{R\bibinitperiod}{Mojdeh}{M\bibinitperiod}{}{}{}{}}%
@@ -1080,16 +1052,15 @@
         {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
         {{hash=1bfe5072e77a4c4cd376191be848453f}{Marzani}{M\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=c9a709b1afeb82ded007430ea109b278}{Sidib{é}}{S\bibinitperiod}{D{é}sir{é}}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=16bd6c852bf588640e7b137b63010b0b}{Sidib{\'e}}{S\bibinitperiod}{D{\'e}sir{\'e}}{D\bibinitperiod}{}{}{}{}}%
       }
       \list{organization}{2}{%
         {International Society for Optics}%
         {Photonics}%
       }
-      \strng{namehash}{0bb353ea046de3359af550179960dcbd}
-      \strng{fullhash}{0bb353ea046de3359af550179960dcbd}
+      \strng{namehash}{755ac46dcb130bbbff7f8658d9288265}
+      \strng{fullhash}{755ac46dcb130bbbff7f8658d9288265}
       \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Classification of melanoma lesions using sparse coded features and random forests}
       \field{booktitle}{SPIE Medical Imaging}
       \field{title}{Classification of melanoma lesions using sparse coded features and random forests}

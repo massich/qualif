@@ -1,0 +1,294 @@
+% Usage:
+% 1. \usepackage{modernTimelinePublications.sty}
+%
+% TODO:
+% 1. Not all the referencing style is properly done. PhD thesis shouldn't
+%    be italic, when inprocedings the names off the proceding title should
+%    be in normal text aswell, etc...
+%       DeclareBibliographyDriver : is descrbed in the biblatex doc
+%       tldatelabelcventry : is described in moderntimeline
+
+\RequirePackage{moderntimeline}
+\RequirePackage{xpatch}
+\RequirePackage{biblatex}
+
+% remove year from the author bibmacro
+\xpatchbibmacro{author}{%
+ \usebibmacro{date+extrayear}}
+ {}{}{}
+
+% remove the extra . (from expanding both the bibtex and the timeline)
+\xpatchcmd\cventry{.\strut}{\strut}{}{}
+
+%change order and wrap into \cvline
+\DeclareBibliographyDriver{incollection}{%
+\tldatelabelcventry{
+  \thefield{year}
+    }{
+  \thefield{year}
+    }{
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{author/translator+others}}{%
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  %\usebibmacro{author/translator+others}
+  %
+  \setunit{\labelnamepunct}\newblock
+  \usebibmacro{title}%
+  \newunit
+  \printlist{language}%
+  \newunit\newblock
+  \usebibmacro{byauthor}%
+  \newunit\newblock
+  \usebibmacro{bytranslator+others}%
+  \newunit\newblock
+  \printfield{version}%
+  \newunit\newblock
+  \usebibmacro{in:}%
+  \usebibmacro{journal+issuetitle}%
+  \newunit
+  \usebibmacro{byeditor+others}%
+  \newunit
+  \usebibmacro{note+pages}%
+  \newunit\newblock
+  \iftoggle{bbx:isbn}
+    {\printfield{issn}}
+    {}%
+  \newunit\newblock
+  \usebibmacro{addendum+pubstate}%
+  \setunit{\bibpagerefpunct}\newblock
+  \usebibmacro{pageref}%
+  \newunit\newblock
+  \usebibmacro{related}%
+  \usebibmacro{finentry}}{}{}{}%
+  }
+
+%change order and wrap into \cvline
+\DeclareBibliographyDriver{misc}{%
+\tldatelabelcventry{
+  \thefield{year}
+    }{
+      \thefield{year}
+    }{
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{author/translator+others}}{%
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \setunit{\labelnamepunct}\newblock
+  \usebibmacro{title}%
+  \newunit
+  \printlist{language}%
+    \newunit\newblock
+  \printfield{version}%
+  \newunit\newblock
+  \printfield{type}%
+  \newunit
+  \printlist{institution}
+  \printlist{location}
+  \usebibmacro{note+pages}%
+  \newunit\newblock
+  \iftoggle{bbx:isbn}
+    {\printfield{issn}}
+    {}%
+  }{}{}{\printfield{url}}%
+  }
+
+%change order and wrap into \cvline
+\DeclareBibliographyDriver{report}{%
+\tldatelabelcventry{
+  \thefield{year}
+    }{
+      \thefield{year}
+    }{
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{author/translator+others}}{%
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \setunit{\labelnamepunct}\newblock
+  \usebibmacro{title}%
+  \newunit
+  \printlist{language}%
+    \newunit\newblock
+  \printfield{version}%
+  \newunit\newblock
+  \printfield{type}%
+  \newunit
+  \printlist{location}:
+  \printlist{institution}.
+  \usebibmacro{note+pages}%
+  \newunit\newblock
+  \iftoggle{bbx:isbn}
+    {\printfield{issn}}
+    {}%
+  }{}{}{}%
+  }
+
+%change order and wrap into \cvline
+\DeclareBibliographyDriver{thesis}{%
+\tldatelabelcventry{
+  \thefield{year}
+    }{
+      \thefield{year}
+    }{
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{author/translator+others}}{%
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \setunit{\labelnamepunct}\newblock
+  \usebibmacro{title}%
+  \newunit
+  \printlist{language}%
+    \newunit\newblock
+  \printfield{version}%
+  \newunit\newblock
+  \printfield{type}%
+  \newunit
+  \printlist{location}:
+  \printlist{institution}.
+  \usebibmacro{note+pages}%
+  \newunit\newblock
+  \iftoggle{bbx:isbn}
+    {\printfield{issn}}
+    {}%
+  }{}{}{}%
+  }
+
+%change order and wrap into \cvline
+\DeclareBibliographyDriver{article}{%
+\tldatelabelcventry{
+  \thefield{year}
+    }{
+  \thefield{year}
+    }{
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{author/translator+others}}{%
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  %\usebibmacro{author/translator+others}
+  %
+  \setunit{\labelnamepunct}\newblock
+  \usebibmacro{title}%
+  \newunit
+  \printlist{language}%
+  \newunit\newblock
+  \usebibmacro{byauthor}%
+  \newunit\newblock
+  \usebibmacro{bytranslator+others}%
+  \newunit\newblock
+  \printfield{version}%
+  \newunit\newblock
+  \usebibmacro{in:}%
+  \usebibmacro{journal+issuetitle}%
+  \newunit
+  \usebibmacro{byeditor+others}%
+  \newunit
+  \usebibmacro{note+pages}%
+  \newunit\newblock
+  \iftoggle{bbx:isbn}
+    {\printfield{issn}}
+    {}%
+  \newunit\newblock
+  \usebibmacro{addendum+pubstate}%
+  \setunit{\bibpagerefpunct}\newblock
+  \usebibmacro{pageref}%
+  \newunit\newblock
+  \usebibmacro{related}%
+  \usebibmacro{finentry}}{}{}{}%
+  }
+
+%change order and wrap into \cvline
+\DeclareBibliographyDriver{inproceedings}{%
+\tldatelabelcventry{
+  \thefield{year}
+    }{
+  \thefield{year}
+    }{
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{author/translator+others}}{%
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  %\usebibmacro{author/translator+others}
+  %
+  \setunit{\labelnamepunct}\newblock
+  \usebibmacro{title}%
+  \newunit
+  \printlist{language}%
+  \newunit\newblock
+  \usebibmacro{byauthor}%
+  \newunit\newblock
+  \usebibmacro{bytranslator+others}%
+  \newunit\newblock
+  \printfield{version}%
+  \newunit\newblock
+  \usebibmacro{in:}%
+  \usebibmacro{booktitle}%
+  \newunit
+  \usebibmacro{byeditor+others}%
+  \newunit
+  \usebibmacro{note+pages}%
+  \newunit\newblock
+  \iftoggle{bbx:isbn}
+    {\printfield{issn}}
+    {}%
+  \newunit\newblock
+  \usebibmacro{addendum+pubstate}%
+  \setunit{\bibpagerefpunct}\newblock
+  \usebibmacro{pageref}%
+  \newunit\newblock
+  \usebibmacro{related}%
+  \usebibmacro{finentry}}{}{}{}%
+  }
+
+
+%change order and wrap into \cvline
+\DeclareBibliographyDriver{inbook}{%
+\tldatelabelcventry{
+  \thefield{year}
+    }{
+  \thefield{year}
+    }{
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \usebibmacro{author/translator+others}}{%
+    \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  %\usebibmacro{author/translator+others}
+  %
+  \setunit{\labelnamepunct}\newblock
+  \usebibmacro{title}%
+  \newunit
+  \printlist{language}%
+  \newunit\newblock
+  \usebibmacro{byauthor}%
+  \newunit\newblock
+  \usebibmacro{bytranslator+others}%
+  \newunit\newblock
+  \printfield{version}%
+  \newunit\newblock
+  \usebibmacro{in:}%
+  \usebibmacro{booktitle}%
+  \newunit
+  \usebibmacro{byeditor+others}%
+  \printlist{publisher}
+  \newunit
+  \usebibmacro{note+pages}%
+  \newunit\newblock
+  \iftoggle{bbx:isbn}
+    {\printfield{issn}}
+    {}%
+  \newunit\newblock
+  \usebibmacro{addendum+pubstate}%
+  \setunit{\bibpagerefpunct}\newblock
+  \usebibmacro{pageref}%
+  \newunit\newblock
+  \usebibmacro{related}%
+  \usebibmacro{finentry}}{}{}{}%
+  }
+
+

@@ -1,26 +1,28 @@
-[0] Config.pm:318> INFO - This is Biber 1.8
-[0] Config.pm:321> INFO - Logfile is 'description.blg'
-[108] biber:275> INFO - === dom dic 18, 2016, 21:40:47
-[108] Biber.pm:333> INFO - Reading 'description.bcf'
-[171] Biber.pm:607> INFO - Using all citekeys in bib section 0
-[271] Biber.pm:3053> INFO - Processing section 0
-[380] Biber.pm:3190> INFO - Looking for bibtex format file 'bib1.bib' for section 0
-[387] bibtex.pm:808> INFO - Found BibTeX data source 'bib1.bib'
-[392] Utils.pm:169> WARN - Duplicate entry key: 'lemaitre2016normalization' in file 'bib1.bib', skipping ...
-[428] Utils.pm:169> WARN - Datamodel: Entry 'lemaitre2015business' (bib1.bib): Invalid format '2015-3' of date field 'date' - ignoring
-[453] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'falcao2009projector'
-[512] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'lemaitre2015miccai'
-[519] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'rastgoo2016classification'
-[521] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'meyerbaese2015miccai'
-[526] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'lemaitre2016normalization'
-[528] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'massich2015qcav'
-[535] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'rastgoo2016tackling'
-[537] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'massich2015miccai'
-[541] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'lemaitre2015qcav'
-[547] Utils.pm:169> WARN - Overwriting field 'year' with year value from field 'date' for entry 'massich2016classifying'
-[703] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
-[703] Biber.pm:2945> INFO - Sorting 'entry' list 'none' keys
-[704] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
-[789] bbl.pm:482> INFO - Writing 'description.bbl' with encoding 'latin1'
-[801] bbl.pm:555> INFO - Output to description.bbl
-[801] Biber.pm:105> INFO - WARNINGS: 12
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'description.blg'
+[33] biber:276> INFO - === Mon Dec 19, 2016, 09:29:05
+[33] Biber.pm:333> INFO - Reading 'description.bcf'
+[112] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.7, expected version 2.6
+[113] Biber.pm:632> INFO - Using all citekeys in bib section 0
+[125] Biber.pm:3051> INFO - Processing section 0
+[137] Biber.pm:3189> INFO - Looking for bibtex format file 'bib1.bib' for section 0
+[141] bibtex.pm:977> INFO - Decoding LaTeX character macros into UTF-8
+[146] bibtex.pm:851> INFO - Found BibTeX data source 'bib1.bib'
+[149] Utils.pm:144> WARN - Duplicate entry key: 'lemaitre2016normalization' in file 'bib1.bib', skipping ...
+[155] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'meyerbaese2015miccai'
+[163] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'rastgoo2016classification'
+[177] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'lemaitre2015qcav'
+[181] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'massich2015qcav'
+[189] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'falcao2009projector'
+[191] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'rastgoo2016tackling'
+[197] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'lemaitre2015miccai'
+[199] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'massich2015miccai'
+[201] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'massich2016classifying'
+[214] Utils.pm:144> WARN - Datamodel: Entry 'lemaitre2015business' (bib1.bib): Invalid format '2015-3' of date field 'date' - ignoring
+[219] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'lemaitre2016normalization'
+[511] UCollate.pm:66> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[511] UCollate.pm:66> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[511] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'fr-FR'
+[568] bbl.pm:517> INFO - Writing 'description.bbl' with encoding 'UTF-8'
+[577] bbl.pm:606> INFO - Output to description.bbl
+[577] Biber.pm:106> INFO - WARNINGS: 13

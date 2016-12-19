@@ -2223,7 +2223,21 @@
     <bcf:citekey order="5">lemaitre2016classification</bcf:citekey>
     <bcf:citekey order="6">sidibe2017anomaly</bcf:citekey>
     <bcf:citekey order="7">massich2016classifying</bcf:citekey>
+    <bcf:citekey order="8">alsaih2016classification</bcf:citekey>
+    <bcf:citekey order="8">rastgoo2016tackling</bcf:citekey>
+    <bcf:citekey order="8">lemaitre2016normalization</bcf:citekey>
+    <bcf:citekey order="8">rastgoo2016classification</bcf:citekey>
+    <bcf:citekey order="8">meyerbaese2015miccai</bcf:citekey>
+    <bcf:citekey order="8">lemaitre2015miccai</bcf:citekey>
+    <bcf:citekey order="8">lemaitre2015qcav</bcf:citekey>
+    <bcf:citekey order="8">massich2014sift</bcf:citekey>
+    <bcf:citekey order="8">lemaitre2016classification</bcf:citekey>
+    <bcf:citekey order="8">rastgo2016classification</bcf:citekey>
+    <bcf:citekey order="8">lemaitre2016normalization</bcf:citekey>
+    <bcf:citekey order="9">belkacemi2016wood</bcf:citekey>
     <bcf:citekey order="9">belkacemi2015nondestructive</bcf:citekey>
+    <bcf:citekey order="10">villanueva2011attracting</bcf:citekey>
+    <bcf:citekey order="10">cufi2012teambased</bcf:citekey>
     <bcf:citekey order="0">*</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none" type="entry" sortscheme="none">

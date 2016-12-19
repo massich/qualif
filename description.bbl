@@ -427,40 +427,6 @@
       \keyw{conference}
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'massich2016classifying'}
     \endentry
-    \entry{belkacemi2015nondestructive}{article}{}
-      \name{labelname}{6}{}{%
-        {{hash=6a7386dd6e44e8a27cd43d0b8b0f515f}{Belkacemi}{B\bibinitperiod}{Mohamed}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=5bf415a3cade674f87a86909afef0a8e}{Stolz}{S\bibinitperiod}{Christophe}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=121960c110791c68ddada26d478ba52a}{Mathieu}{M\bibinitperiod}{Alex\bibnamedelima andre}{A\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
-        {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=68749c63f9898b85e9b7790090cb55bd}{Aubreton}{A\bibinitperiod}{Olivier}{O\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{6}{}{%
-        {{hash=6a7386dd6e44e8a27cd43d0b8b0f515f}{Belkacemi}{B\bibinitperiod}{Mohamed}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=5bf415a3cade674f87a86909afef0a8e}{Stolz}{S\bibinitperiod}{Christophe}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=121960c110791c68ddada26d478ba52a}{Mathieu}{M\bibinitperiod}{Alex\bibnamedelima andre}{A\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
-        {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=68749c63f9898b85e9b7790090cb55bd}{Aubreton}{A\bibinitperiod}{Olivier}{O\bibinitperiod}{}{}{}{}}%
-      }
-      \list{publisher}{2}{%
-        {International Society for Optics}%
-        {Photonics}%
-      }
-      \strng{namehash}{13f3ab66696c46d166bf6f9fe68f9de4}
-      \strng{fullhash}{13f3ab66696c46d166bf6f9fe68f9de4}
-      \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
-      \field{labeltitle}{Nondestructive testing based on scanning-from-heating approach: application to nonthrough defect detection and fiber orientation assessment}
-      \field{journaltitle}{Journal of Electronic Imaging}
-      \field{number}{6}
-      \field{title}{Nondestructive testing based on scanning-from-heating approach: application to nonthrough defect detection and fiber orientation assessment}
-      \field{volume}{24}
-      \field{year}{2015}
-      \field{pages}{061112\bibrangedash 061112}
-      \keyw{journal}
-    \endentry
     \entry{alsaih2016classification}{inproceedings}{}
       \name{labelname}{10}{}{%
         {{hash=b9d652f136f3af412d4ed3bfe8b96fb2}{Alsaih}{A\bibinitperiod}{Khaled}{K\bibinitperiod}{}{}{}{}}%
@@ -493,46 +459,6 @@
       \field{labeltitle}{Classification of SD-OCT volumes with multi pyramids, LBP and HOG descriptors: application to DME detections}
       \field{booktitle}{38th {IEEE} {E}ngineering in {M}edicine and {B}iology {S}ociety ({EMBC})}
       \field{title}{Classification of SD-OCT volumes with multi pyramids, LBP and HOG descriptors: application to DME detections}
-      \field{year}{2016}
-      \keyw{conference}
-    \endentry
-    \entry{belkacemi2016wood}{inproceedings}{}
-      \name{labelname}{9}{}{%
-        {{hash=03e19f2acd8f18e3acd036538abb4849}{Belkacemi}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=d7abe4f9d23fc68cd3cad6352195105e}{Massich}{M\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=dbb2c00d99cc10fc0e595aa50afe5f8f}{Lemaitre}{L\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=89367ff9a8780ffaaee064e8182b2786}{Stolz}{S\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=3292399491e4f66217663b483e287348}{Daval}{D\bibinitperiod}{V}{V\bibinitperiod}{}{}{}{}}%
-        {{hash=600edd8a8c7dd2a049481a3d328c8bd7}{Pot}{P\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=19eee3718548a3b796d518e9d8f81c75}{Aubreton}{A\bibinitperiod}{O}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=a29408afae658b48ea8e54705bd3dbf3}{Collet}{C\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=2f9811929b87b63f2d6001f317625ff4}{Meriaudeau}{M\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{9}{}{%
-        {{hash=03e19f2acd8f18e3acd036538abb4849}{Belkacemi}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=d7abe4f9d23fc68cd3cad6352195105e}{Massich}{M\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=dbb2c00d99cc10fc0e595aa50afe5f8f}{Lemaitre}{L\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=89367ff9a8780ffaaee064e8182b2786}{Stolz}{S\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
-        {{hash=3292399491e4f66217663b483e287348}{Daval}{D\bibinitperiod}{V}{V\bibinitperiod}{}{}{}{}}%
-        {{hash=600edd8a8c7dd2a049481a3d328c8bd7}{Pot}{P\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=19eee3718548a3b796d518e9d8f81c75}{Aubreton}{A\bibinitperiod}{O}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=a29408afae658b48ea8e54705bd3dbf3}{Collet}{C\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=2f9811929b87b63f2d6001f317625ff4}{Meriaudeau}{M\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
-      }
-      \list{language}{1}{%
-        {English}%
-      }
-      \list{location}{1}{%
-        {Gdansk, Poland}%
-      }
-      \strng{namehash}{b9006a18dd390085cef1a66a7f863ef4}
-      \strng{fullhash}{b9006a18dd390085cef1a66a7f863ef4}
-      \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
-      \field{labeltitle}{Wood fiber orientation assessment based on punctual laser beam excitation}
-      \field{booktitle}{13rd {Q}uantitative {I}nfrared {T}hermography {C}onference ({QIRT})}
-      \field{month}{06}
-      \field{title}{Wood fiber orientation assessment based on punctual laser beam excitation}
       \field{year}{2016}
       \keyw{conference}
     \endentry
@@ -722,6 +648,171 @@
       \keyw{conference}
       \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'lemaitre2015qcav'}
     \endentry
+    \entry{rastgo2016classification}{inproceedings}{}
+      \name{labelname}{8}{}{%
+        {{hash=f1176e882079be4c3b8a6dfb3ff84d6d}{Rastgo}{R\bibinitperiod}{Mojdeh}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=ab50f94eb6eec99ba00102e60765c87d}{Morel}{M\bibinitperiod}{Olivier}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=1bfe5072e77a4c4cd376191be848453f}{Marzani}{M\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=c9a709b1afeb82ded007430ea109b278}{Sidib{é}}{S\bibinitperiod}{D{é}sir{é}}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{8}{}{%
+        {{hash=f1176e882079be4c3b8a6dfb3ff84d6d}{Rastgo}{R\bibinitperiod}{Mojdeh}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=ab50f94eb6eec99ba00102e60765c87d}{Morel}{M\bibinitperiod}{Olivier}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=1bfe5072e77a4c4cd376191be848453f}{Marzani}{M\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=c9a709b1afeb82ded007430ea109b278}{Sidib{é}}{S\bibinitperiod}{D{é}sir{é}}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{2}{%
+        {International Society for Optics}%
+        {Photonics}%
+      }
+      \strng{namehash}{0bb353ea046de3359af550179960dcbd}
+      \strng{fullhash}{0bb353ea046de3359af550179960dcbd}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Classification of melanoma lesions using sparse coded features and random forests}
+      \field{booktitle}{SPIE Medical Imaging}
+      \field{title}{Classification of melanoma lesions using sparse coded features and random forests}
+      \field{year}{2016}
+      \field{pages}{97850C\bibrangedash 97850C}
+      \keyw{conference}
+    \endentry
+    \entry{belkacemi2015nondestructive}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=6a7386dd6e44e8a27cd43d0b8b0f515f}{Belkacemi}{B\bibinitperiod}{Mohamed}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5bf415a3cade674f87a86909afef0a8e}{Stolz}{S\bibinitperiod}{Christophe}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=121960c110791c68ddada26d478ba52a}{Mathieu}{M\bibinitperiod}{Alex\bibnamedelima andre}{A\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=68749c63f9898b85e9b7790090cb55bd}{Aubreton}{A\bibinitperiod}{Olivier}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=6a7386dd6e44e8a27cd43d0b8b0f515f}{Belkacemi}{B\bibinitperiod}{Mohamed}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=5bf415a3cade674f87a86909afef0a8e}{Stolz}{S\bibinitperiod}{Christophe}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=121960c110791c68ddada26d478ba52a}{Mathieu}{M\bibinitperiod}{Alex\bibnamedelima andre}{A\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=68749c63f9898b85e9b7790090cb55bd}{Aubreton}{A\bibinitperiod}{Olivier}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{2}{%
+        {International Society for Optics}%
+        {Photonics}%
+      }
+      \strng{namehash}{13f3ab66696c46d166bf6f9fe68f9de4}
+      \strng{fullhash}{13f3ab66696c46d166bf6f9fe68f9de4}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Nondestructive testing based on scanning-from-heating approach: application to nonthrough defect detection and fiber orientation assessment}
+      \field{journaltitle}{Journal of Electronic Imaging}
+      \field{number}{6}
+      \field{title}{Nondestructive testing based on scanning-from-heating approach: application to nonthrough defect detection and fiber orientation assessment}
+      \field{volume}{24}
+      \field{year}{2015}
+      \field{pages}{061112\bibrangedash 061112}
+      \keyw{journal}
+    \endentry
+    \entry{belkacemi2016wood}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=03e19f2acd8f18e3acd036538abb4849}{Belkacemi}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d7abe4f9d23fc68cd3cad6352195105e}{Massich}{M\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=dbb2c00d99cc10fc0e595aa50afe5f8f}{Lemaitre}{L\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=89367ff9a8780ffaaee064e8182b2786}{Stolz}{S\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=3292399491e4f66217663b483e287348}{Daval}{D\bibinitperiod}{V}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=600edd8a8c7dd2a049481a3d328c8bd7}{Pot}{P\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=19eee3718548a3b796d518e9d8f81c75}{Aubreton}{A\bibinitperiod}{O}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=a29408afae658b48ea8e54705bd3dbf3}{Collet}{C\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=2f9811929b87b63f2d6001f317625ff4}{Meriaudeau}{M\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=03e19f2acd8f18e3acd036538abb4849}{Belkacemi}{B\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d7abe4f9d23fc68cd3cad6352195105e}{Massich}{M\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=dbb2c00d99cc10fc0e595aa50afe5f8f}{Lemaitre}{L\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=89367ff9a8780ffaaee064e8182b2786}{Stolz}{S\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=3292399491e4f66217663b483e287348}{Daval}{D\bibinitperiod}{V}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=600edd8a8c7dd2a049481a3d328c8bd7}{Pot}{P\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=19eee3718548a3b796d518e9d8f81c75}{Aubreton}{A\bibinitperiod}{O}{O\bibinitperiod}{}{}{}{}}%
+        {{hash=a29408afae658b48ea8e54705bd3dbf3}{Collet}{C\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=2f9811929b87b63f2d6001f317625ff4}{Meriaudeau}{M\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Gdansk, Poland}%
+      }
+      \strng{namehash}{b9006a18dd390085cef1a66a7f863ef4}
+      \strng{fullhash}{b9006a18dd390085cef1a66a7f863ef4}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Wood fiber orientation assessment based on punctual laser beam excitation}
+      \field{booktitle}{13rd {Q}uantitative {I}nfrared {T}hermography {C}onference ({QIRT})}
+      \field{month}{06}
+      \field{title}{Wood fiber orientation assessment based on punctual laser beam excitation}
+      \field{year}{2016}
+      \keyw{conference}
+    \endentry
+    \entry{villanueva2011attracting}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=ad17c280b89dc3806dd4ae424bcf9241}{Villanueva}{V\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=dfb59c84f7c1aafd58bd0d495275f149}{Cuf{í}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=8b1428064270d901576ca79d724b4a99}{ElFakdi}{E\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=ad17c280b89dc3806dd4ae424bcf9241}{Villanueva}{V\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=dfb59c84f7c1aafd58bd0d495275f149}{Cuf{í}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=8b1428064270d901576ca79d724b4a99}{ElFakdi}{E\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{664a08438eee3acb3330640e87f2e7af}
+      \strng{fullhash}{664a08438eee3acb3330640e87f2e7af}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Attracting talent to increase interest for engineering among secondary school students}
+      \field{booktitle}{Global Engineering Education Conference (EDUCON), 2011 IEEE}
+      \field{title}{Attracting talent to increase interest for engineering among secondary school students}
+      \field{year}{2011}
+      \field{pages}{347\bibrangedash 353}
+      \keyw{conference,education}
+    \endentry
+    \entry{cufi2012teambased}{inproceedings}{}
+      \name{labelname}{5}{}{%
+        {{hash=dfb59c84f7c1aafd58bd0d495275f149}{Cuf{í}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=ad17c280b89dc3806dd4ae424bcf9241}{Villanueva}{V\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8b1428064270d901576ca79d724b4a99}{ElFakdi}{E\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=dfb59c84f7c1aafd58bd0d495275f149}{Cuf{í}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=ad17c280b89dc3806dd4ae424bcf9241}{Villanueva}{V\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8b1428064270d901576ca79d724b4a99}{ElFakdi}{E\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2731212788569e0ad96f0763ba66d60c}
+      \strng{fullhash}{2731212788569e0ad96f0763ba66d60c}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Team-based Building of a Remotely Operated Robot as a Method to Increase the Interest for Engineering among Secondary School Students}
+      \field{booktitle}{Proceedings of EDULEARN 2012. 4th International Conference on Education and New Learning Technologies}
+      \field{month}{07}
+      \field{title}{Team-based Building of a Remotely Operated Robot as a Method to Increase the Interest for Engineering among Secondary School Students}
+      \field{year}{2012}
+      \keyw{conference,education}
+    \endentry
     \entry{lemaitre2015business}{inproceedings}{}
       \name{labelname}{5}{}{%
         {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
@@ -758,13 +849,13 @@
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=7a5e083497df8200982793d0fb617ac8}{Mart{í}­}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc2fe98c832afa25b0bd4b416a1f544}{Mart{í}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
         {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
         {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
         {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=7a5e083497df8200982793d0fb617ac8}{Mart{í}­}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3cc2fe98c832afa25b0bd4b416a1f544}{Mart{í}}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
       }
       \list{language}{1}{%
         {English}%
@@ -772,8 +863,8 @@
       \list{location}{1}{%
         {Le Creusot, France}%
       }
-      \strng{namehash}{547dc4be640405c0763efe9cc489fb61}
-      \strng{fullhash}{547dc4be640405c0763efe9cc489fb61}
+      \strng{namehash}{f9bbc385508cf34fb69aeb222ef9cc72}
+      \strng{fullhash}{f9bbc385508cf34fb69aeb222ef9cc72}
       \field{sortinit}{0}
       \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
       \field{labeltitle}{Breast Ultra-Sound Image Segmentation: an Optimization approach based on super-pixels and high-level descriptors}
@@ -824,7 +915,7 @@
       \field{title}{Ultrasound Image Analysis. {M}ethods and Applications.}
       \field{year}{2011}
       \field{pages}{216\bibrangedash 230}
-      \keyw{conference}
+      \keyw{bookchapter}
     \endentry
     \entry{falcao2008plane}{report}{}
       \name{labelname}{3}{}{%
@@ -986,97 +1077,6 @@
       \field{title}{{ICTINEU AUV}, un Robot per a Competir}
       \field{volume}{146}
       \field{year}{2006}
-      \keyw{conference}
-    \endentry
-    \entry{villanueva2011attracting}{inproceedings}{}
-      \name{labelname}{5}{}{%
-        {{hash=ad17c280b89dc3806dd4ae424bcf9241}{Villanueva}{V\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=dfb59c84f7c1aafd58bd0d495275f149}{Cuf{í}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=8b1428064270d901576ca79d724b4a99}{ElFakdi}{E\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{5}{}{%
-        {{hash=ad17c280b89dc3806dd4ae424bcf9241}{Villanueva}{V\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=dfb59c84f7c1aafd58bd0d495275f149}{Cuf{í}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=8b1428064270d901576ca79d724b4a99}{ElFakdi}{E\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \list{organization}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{664a08438eee3acb3330640e87f2e7af}
-      \strng{fullhash}{664a08438eee3acb3330640e87f2e7af}
-      \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
-      \field{labeltitle}{Attracting talent to increase interest for engineering among secondary school students}
-      \field{booktitle}{Global Engineering Education Conference (EDUCON), 2011 IEEE}
-      \field{title}{Attracting talent to increase interest for engineering among secondary school students}
-      \field{year}{2011}
-      \field{pages}{347\bibrangedash 353}
-      \keyw{conference,education}
-    \endentry
-    \entry{cufi2012teambased}{inproceedings}{}
-      \name{labelname}{5}{}{%
-        {{hash=dfb59c84f7c1aafd58bd0d495275f149}{Cuf{í}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=ad17c280b89dc3806dd4ae424bcf9241}{Villanueva}{V\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=8b1428064270d901576ca79d724b4a99}{ElFakdi}{E\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{5}{}{%
-        {{hash=dfb59c84f7c1aafd58bd0d495275f149}{Cuf{í}}{C\bibinitperiod}{Xevi}{X\bibinitperiod}{}{}{}{}}%
-        {{hash=ad17c280b89dc3806dd4ae424bcf9241}{Villanueva}{V\bibinitperiod}{Miquel}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=8b1428064270d901576ca79d724b4a99}{ElFakdi}{E\bibinitperiod}{Andr{é}s}{A\bibinitperiod}{}{}{}{}}%
-        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{2731212788569e0ad96f0763ba66d60c}
-      \strng{fullhash}{2731212788569e0ad96f0763ba66d60c}
-      \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
-      \field{labeltitle}{Team-based Building of a Remotely Operated Robot as a Method to Increase the Interest for Engineering among Secondary School Students}
-      \field{booktitle}{Proceedings of EDULEARN 2012. 4th International Conference on Education and New Learning Technologies}
-      \field{month}{07}
-      \field{title}{Team-based Building of a Remotely Operated Robot as a Method to Increase the Interest for Engineering among Secondary School Students}
-      \field{year}{2012}
-      \keyw{conference,education}
-    \endentry
-    \entry{rastgo2016classification}{inproceedings}{}
-      \name{labelname}{8}{}{%
-        {{hash=f1176e882079be4c3b8a6dfb3ff84d6d}{Rastgo}{R\bibinitperiod}{Mojdeh}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=ab50f94eb6eec99ba00102e60765c87d}{Morel}{M\bibinitperiod}{Olivier}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=1bfe5072e77a4c4cd376191be848453f}{Marzani}{M\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=c9a709b1afeb82ded007430ea109b278}{Sidib{é}}{S\bibinitperiod}{D{é}sir{é}}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{8}{}{%
-        {{hash=f1176e882079be4c3b8a6dfb3ff84d6d}{Rastgo}{R\bibinitperiod}{Mojdeh}{M\bibinitperiod}{}{}{}{}}%
-        {{hash=eecaf670e97f746cf75ba9172c19c31a}{Lemaitre}{L\bibinitperiod}{Guillaume}{G\bibinitperiod}{}{}{}{}}%
-        {{hash=ab50f94eb6eec99ba00102e60765c87d}{Morel}{M\bibinitperiod}{Olivier}{O\bibinitperiod}{}{}{}{}}%
-        {{hash=fe665a7a657d3ced0de31fbd0cef5e39}{Massich}{M\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
-        {{hash=a0f78a3a52ae9100045456d415eaa324}{Garcia}{G\bibinitperiod}{Rafael}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=4fdd907545458a9fb7589439c2c5f971}{Meriaudeau}{M\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=1bfe5072e77a4c4cd376191be848453f}{Marzani}{M\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
-        {{hash=c9a709b1afeb82ded007430ea109b278}{Sidib{é}}{S\bibinitperiod}{D{é}sir{é}}{D\bibinitperiod}{}{}{}{}}%
-      }
-      \list{organization}{2}{%
-        {International Society for Optics}%
-        {Photonics}%
-      }
-      \strng{namehash}{0bb353ea046de3359af550179960dcbd}
-      \strng{fullhash}{0bb353ea046de3359af550179960dcbd}
-      \field{sortinit}{0}
-      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
-      \field{labeltitle}{Classification of melanoma lesions using sparse coded features and random forests}
-      \field{booktitle}{SPIE Medical Imaging}
-      \field{title}{Classification of melanoma lesions using sparse coded features and random forests}
-      \field{year}{2016}
-      \field{pages}{97850C\bibrangedash 97850C}
       \keyw{conference}
     \endentry
   \endsortlist

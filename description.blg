@@ -1,28 +1,38 @@
-[1] Config.pm:320> INFO - This is Biber 1.9
-[1] Config.pm:323> INFO - Logfile is 'description.blg'
-[44] biber:276> INFO - === Mon Dec 19, 2016, 09:39:22
-[44] Biber.pm:333> INFO - Reading 'description.bcf'
-[124] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.7, expected version 2.6
-[125] Biber.pm:632> INFO - Using all citekeys in bib section 0
-[143] Biber.pm:3051> INFO - Processing section 0
-[156] Biber.pm:3189> INFO - Looking for bibtex format file 'bib1.bib' for section 0
-[160] bibtex.pm:977> INFO - Decoding LaTeX character macros into UTF-8
-[165] bibtex.pm:851> INFO - Found BibTeX data source 'bib1.bib'
-[167] Utils.pm:144> WARN - Duplicate entry key: 'lemaitre2016normalization' in file 'bib1.bib', skipping ...
-[176] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'lemaitre2016normalization'
-[186] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'lemaitre2015qcav'
-[195] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'massich2016classifying'
-[197] Utils.pm:144> WARN - Datamodel: Entry 'lemaitre2015business' (bib1.bib): Invalid format '2015-3' of date field 'date' - ignoring
-[199] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'meyerbaese2015miccai'
-[211] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'falcao2009projector'
-[224] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'rastgoo2016tackling'
-[226] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'massich2015qcav'
-[233] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'rastgoo2016classification'
-[237] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'lemaitre2015miccai'
-[242] Utils.pm:144> WARN - Overwriting field 'year' with year value from field 'date' for entry 'massich2015miccai'
-[521] UCollate.pm:66> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[521] UCollate.pm:66> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[521] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'fr-FR'
-[578] bbl.pm:517> INFO - Writing 'description.bbl' with encoding 'UTF-8'
-[586] bbl.pm:606> INFO - Output to description.bbl
-[586] Biber.pm:106> INFO - WARNINGS: 13
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'description.blg'
+[44] biber:290> INFO - === Mon Dec 19, 2016, 09:48:49
+[60] Biber.pm:347> INFO - Reading 'description.bcf'
+[157] Biber.pm:738> INFO - Using all citekeys in bib section 0
+[170] Biber.pm:3150> INFO - Processing section 0
+[213] Biber.pm:3307> INFO - Looking for bibtex format file 'bib1.bib' for section 0
+[217] bibtex.pm:1124> INFO - Decoding LaTeX character macros into UTF-8
+[221] bibtex.pm:985> INFO - Found BibTeX data source 'bib1.bib'
+[224] Utils.pm:147> WARN - Duplicate entry key: 'lemaitre2016normalization' in file 'bib1.bib', skipping ...
+[304] Utils.pm:147> WARN - Overwriting field 'year' with year value from field 'date' for entry 'falcao2009projector'
+[326] Utils.pm:147> WARN - Overwriting field 'year' with year value from field 'date' for entry 'rastgoo2016tackling'
+[354] Utils.pm:147> WARN - Overwriting field 'year' with year value from field 'date' for entry 'meyerbaese2015miccai'
+[395] Utils.pm:147> WARN - Overwriting field 'year' with year value from field 'date' for entry 'rastgoo2016classification'
+[410] Utils.pm:147> WARN - Overwriting field 'year' with year value from field 'date' for entry 'massich2015qcav'
+[460] Utils.pm:147> WARN - Overwriting field 'year' with year value from field 'date' for entry 'lemaitre2015miccai'
+[560] Utils.pm:147> WARN - Overwriting field 'year' with year value from field 'date' for entry 'massich2016classifying'
+[571] Utils.pm:147> WARN - Overwriting field 'year' with year value from field 'date' for entry 'massich2015miccai'
+[586] Utils.pm:147> WARN - Overwriting field 'year' with year value from field 'date' for entry 'lemaitre2016normalization'
+[598] Utils.pm:147> WARN - Datamodel: Entry 'lemaitre2015business' (bib1.bib): Invalid format '2015-3' of date field 'date' - ignoring
+[611] Utils.pm:147> WARN - Overwriting field 'year' with year value from field 'date' for entry 'lemaitre2015qcav'
+[939] UCollate.pm:65> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[939] UCollate.pm:65> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[939] Biber.pm:3027> INFO - Sorting list 'none/global' of type 'entry' with scheme 'none' and locale 'fr-FR'
+[1017] bbl.pm:519> INFO - Writing 'description.bbl' with encoding 'latin1'
+[1022] Utils.pm:147> WARN - The entry 'massich2010lesion' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[1024] Utils.pm:147> WARN - The entry 'massich2011seed' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[1027] Utils.pm:147> WARN - The entry 'massich2012seed' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[1029] Utils.pm:147> WARN - The entry 'lemaitre2016classification' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[1031] Utils.pm:147> WARN - The entry 'sidibe2017anomaly' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[1035] Utils.pm:147> WARN - The entry 'alsaih2016classification' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[1040] Utils.pm:147> WARN - The entry 'villanueva2011attracting' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[1045] Utils.pm:147> WARN - The entry 'cufi2012teambased' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[1051] Utils.pm:147> WARN - The entry 'massich2011book' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[1057] Utils.pm:147> WARN - The entry 'ribas2006ictineu' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[1060] Utils.pm:147> WARN - The entry 'hernandez2006ictineu' has characters which cannot be encoded in 'latin1'. Recoding problematic characters into macros.
+[1061] bbl.pm:615> INFO - Output to description.bbl
+[1061] Biber.pm:108> INFO - WARNINGS: 23
